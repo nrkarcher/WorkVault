@@ -1,0 +1,2 @@
+# WorkVault
+ Obsidian vault
