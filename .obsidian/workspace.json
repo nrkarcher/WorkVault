@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-12-19.md",
+                "file": "Task List.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-12-19.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-12-19.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-12-19.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -176,9 +176,9 @@
   },
   "active": "181176fc96948b8e",
   "lastOpenFiles": [
+    "Notes/2023-12-19.md",
     "Task List.md",
     "README.md",
-    "Notes/2023-12-19.md",
     "Notes"
   ]
 }

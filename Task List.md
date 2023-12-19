@@ -1,2 +1,2 @@
-- [ ] Add 10.8.2 to ftp
-- [ ] Send out company communication ⏫ ➕ 2023-12-19 📅 2023-12-20
+- [x] Add 10.8.2 to ftp ✅ 2023-12-19
+- [x] Send out company communication ⏫ ➕ 2023-12-19 📅 2023-12-20 ✅ 2023-12-19
