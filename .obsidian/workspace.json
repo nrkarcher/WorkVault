@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Notes/Home Notes.md",
+                "file": "Notes/2023-12-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Notes/Home Notes.md",
+                "file": "Notes/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Notes/Home Notes.md",
+                "file": "Notes/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Notes/Home Notes.md"
+                "file": "Notes/2023-12-19.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "181176fc96948b8e",
   "lastOpenFiles": [
-    "Notes/2023-12-19.md",
     "Home Notes/Home Notes.md",
+    "Notes/2023-12-19.md",
     "Home Notes",
     "Task List.md",
     "README.md",
