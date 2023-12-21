@@ -1,2 +1,4 @@
-Reconfigure entitlement if necessary
+- Reconfigure entitlement if necessary
 - Check with the team about that other issue that Andrew is running into.
+- Where do we store that OAuth file to access dev version.
+- 
