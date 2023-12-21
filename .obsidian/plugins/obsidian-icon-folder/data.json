@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWrench",
       "LiWarehouse",
       "LiPencilLine",
       "LiSparkles"
@@ -26,5 +27,6 @@
   },
   "Task List.md": "LiSparkles",
   "Notes": "LiPencilLine",
-  "Home Notes": "LiWarehouse"
+  "Home Notes": "LiWarehouse",
+  "Notes/Personal Development": "LiWrench"
 }

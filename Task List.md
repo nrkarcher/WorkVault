@@ -1,4 +1,5 @@
-- [x] Add 10.8.2 to ftp ✅ 2023-12-19
-- [x] Send out company communication ⏫ ➕ 2023-12-19 📅 2023-12-20 ✅ 2023-12-19
-- [ ] Review onboarding and discuss with Kathryn
-- [ ] Identify leadership traits before next 1-on-1
+- [x] Add 10.8.2 to ftp ✅ [[2023-12-19]] 
+- [x] Send out company communication ⏫ ➕ [[2023-12-19]] 📅 2023-12-20 ✅ [[2023-12-19]]
+- [ ] Review onboarding and discuss with Kathryn [[1-on-1's]]
+- [ ] Identify leadership traits before next 1-on-1 [[1-on-1's]]
+- [ ] Complete 10.8.0 upgrade for all clean projects. ➕ 2023-12-21 [[Data Repository]]
