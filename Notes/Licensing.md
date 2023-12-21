@@ -1,4 +1,5 @@
-- Reconfigure entitlement if necessary - id.dev
-- Check with the team about that other issue that Andrew is running into.
+- Reconfigure entitlement if necessary 
+	- Dev version: https://id-dev.seisware.com/sysadmin/
+- Check with the team about that other issue that Andrew is running into with the launcher consuming a license without a project being opened.
 - Where do we store that OAuth file to access dev version?
 	- 
