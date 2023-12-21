@@ -1,2 +1,4 @@
 - [x] Add 10.8.2 to ftp ✅ 2023-12-19
 - [x] Send out company communication ⏫ ➕ 2023-12-19 📅 2023-12-20 ✅ 2023-12-19
+- [ ] Review onboarding and discuss with Kathryn
+- [ ] Identify leadership traits before next 1-on-1

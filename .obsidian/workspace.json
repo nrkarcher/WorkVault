@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Licensing.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Licensing.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +122,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Licensing.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Licensing.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,13 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4decfc773711504b",
+  "active": "181176fc96948b8e",
   "lastOpenFiles": [
-    "Notes/2023-12-19.md",
-    "Notes/Licensing.md",
+    "Notes/Personal Development/1-on-1's.md",
     "Task List.md",
+    "Notes/Data Repository.md",
+    "Notes/2023-12-19.md",
+    "Notes/Personal Development",
     "README.md",
     "Home Notes/Home Notes.md",
+    "Notes/Licensing.md",
     "Home Notes",
     "Notes"
   ]
