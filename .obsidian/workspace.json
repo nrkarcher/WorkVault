@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-12-19.md",
+                "file": "Notes/Data Repository.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/2023-12-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Notes/2023-12-19.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -166,11 +166,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4decfc773711504b",
+  "active": "181176fc96948b8e",
   "lastOpenFiles": [
     "Task List.md",
-    "Notes/2023-12-19.md",
     "Notes/Data Repository.md",
+    "Notes/2023-12-19.md",
+    "2023-12-21.md",
     "Notes/Licensing.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Personal Development",
