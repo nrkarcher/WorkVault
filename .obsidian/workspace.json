@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data Repository.md",
+                "file": "2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "2024-01-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "2024-01-02.md"
               }
             }
           },
@@ -182,9 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "181176fc96948b8e",
+  "active": "4decfc773711504b",
   "lastOpenFiles": [
     "Notes/Data Repository.md",
+    "2024-01-02.md",
     "Task List.md",
     "Notes/2023-12-19.md",
     "2023-12-21.md",
