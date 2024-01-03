@@ -4,4 +4,5 @@
 - [ ] Identify leadership traits before next 1-on-1 [[1-on-1's]]
 - [ ] Complete 10.8.0 upgrade for all clean projects. ➕ 2023-12-21 [[Data Repository]]
 - [ ] Test out single license and retest bug [[2024-01-02]]
+- [ ] Send FF money to Austin
 - [ ] 
