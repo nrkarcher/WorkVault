@@ -2,7 +2,9 @@
 - [x] Send out company communication ⏫ ➕ [[2023-12-19]] 📅 2023-12-20 ✅ [[2023-12-19]]
 - [ ] Review onboarding and discuss with Kathryn [[1-on-1's]]
 - [ ] Identify leadership traits before next 1-on-1 [[1-on-1's]]
-- [ ] Complete 10.8.0 upgrade for all clean projects. ➕ 2023-12-21 [[Data Repository]]
+- [x] Complete 10.8.0 upgrade for all clean projects. ➕ 2023-12-21 [[Data Repository]]
 - [x] Test out single license and retest bug [[2024-01-02]]
 - [ ] Send FF money to Austin
+- [ ] Book review for Hellfire Club
+- [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] 
