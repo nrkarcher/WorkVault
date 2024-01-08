@@ -7,4 +7,5 @@
 - [ ] Send FF money to Austin
 - [ ] Book review for Hellfire Club
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
+- [ ] Development Plan for 2024 [[1-on-1's]] Feb 7
 - [ ] 
