@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-08.md",
+                "file": "Notes/11.0 Upgrade.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-08.md",
+                "file": "Notes/11.0 Upgrade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-08.md",
+                "file": "Notes/11.0 Upgrade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-08.md"
+                "file": "Notes/11.0 Upgrade.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-01-08.md",
+    "Notes/11.0 Upgrade.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-01-02.md",
     "Notes/Daily Notes/2023-12-19.md",
     "Notes/Daily Notes/2024-01-04.md",
