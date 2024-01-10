@@ -4,9 +4,9 @@
 - [ ] Identify leadership traits before next 1-on-1 [[1-on-1's]]
 - [x] Complete 10.8.0 upgrade for all clean projects. ➕ 2023-12-21 [[Data Repository]]
 - [x] Test out single license and retest bug [[2024-01-02]]
-- [ ] Send FF money to Austin
+- [x] Send FF money to Austin
 - [ ] Book review for Hellfire Club
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Development Plan for 2024 [[1-on-1's]] Feb 7
 - [ ] Clear Roach [[2024-01-08]]
-- [ ] 
+- [ ] 10.8.3 test plan ➕ 2024-01-10 [[2024-01-10]]

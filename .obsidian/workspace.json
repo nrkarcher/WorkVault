@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/11.0 Upgrade.md",
+                "file": "Notes/Licensing.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/11.0 Upgrade.md",
+                "file": "Notes/Licensing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/11.0 Upgrade.md",
+                "file": "Notes/Licensing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/11.0 Upgrade.md"
+                "file": "Notes/Licensing.md"
               }
             }
           },
@@ -184,12 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4decfc773711504b",
+  "active": "07ee0aa5b468b1b9",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-01-08.md",
-    "Notes/11.0 Upgrade.md",
+    "Notes/Daily Notes/2024-01-10.md",
     "Task List.md",
     "Notes/Daily Notes/2024-01-02.md",
+    "Notes/11.0 Upgrade.md",
+    "Notes/Daily Notes/2024-01-08.md",
     "Notes/Daily Notes/2023-12-19.md",
     "Notes/Daily Notes/2024-01-04.md",
     "Notes/Daily Notes",
