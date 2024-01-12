@@ -14,3 +14,7 @@ Innovation - need to get better at this
 Impatience - Can work more on that. 
 Inspiration and motivation - Use the retro as an opportunity to call out people for doing a good job - inspires - more specific and directed, tied to a value.
 Accountability - use curiosity as a means to convey accountability - Are you running into roadblocks
+
+Potential Leadership books:
+Peter G Northhouse - Leadership
+The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever -Michael Bungay Stanier
