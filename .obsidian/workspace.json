@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-15.md",
+                "file": "Notes/Onboarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f3f10edb56a1074b",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-15.md",
+                "file": "Notes/Onboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-15.md",
+                "file": "Notes/Onboarding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-15.md"
+                "file": "Notes/Onboarding.md"
               }
             }
           },
@@ -186,9 +186,10 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-01-15.md",
+    "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-01-10.md",
     "Notes/Daily Notes/2024-01-11.md",
-    "Notes/Daily Notes/2024-01-15.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Data Repository.md",
     "Task List.md",
