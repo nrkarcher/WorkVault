@@ -14,26 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Onboarding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6948d0f6ffffc34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Notes/Daily Notes/2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "558d77387ebd30e7",
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes/Daily Notes/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes/Daily Notes/2024-01-16.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Notes/Daily Notes/2024-01-16.md"
               }
             }
           },
@@ -197,16 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6948d0f6ffffc34",
+  "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Notes/Onboarding.md",
+    "Task List.md",
+    "Notes/Daily Notes/2024-01-16.md",
     "Notes/Daily Notes/2024-01-15.md",
+    "Notes/Onboarding.md",
+    "Untitled.md",
     "Notes/Daily Notes/2024-01-10.md",
     "Notes/Daily Notes/2024-01-11.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Data Repository.md",
-    "Task List.md",
     "Notes/Licensing.md",
     "Notes/Daily Notes/2024-01-02.md",
     "Notes/11.0 Upgrade.md",
