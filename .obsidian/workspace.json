@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "f3f10edb56a1074b",
@@ -186,8 +186,9 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Task List.md",
+    "Notes/Daily Notes/2024-01-08.md",
     "Notes/Daily Notes/2024-01-16.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-01-15.md",
     "Notes/Onboarding.md",
     "Untitled.md",
@@ -198,7 +199,6 @@
     "Notes/Licensing.md",
     "Notes/Daily Notes/2024-01-02.md",
     "Notes/11.0 Upgrade.md",
-    "Notes/Daily Notes/2024-01-08.md",
     "Notes/Daily Notes/2023-12-19.md",
     "Notes/Daily Notes/2024-01-04.md",
     "Notes/Daily Notes",
