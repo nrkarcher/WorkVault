@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "73f264e4dafee44f",
+        "type": "tabs",
+        "dimension": 74.51282051282051,
+        "children": [
+          {
+            "id": "4decfc773711504b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily Notes/2024-01-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "558d77387ebd30e7",
         "type": "tabs",
+        "dimension": 25.48717948717949,
         "children": [
           {
             "id": "181176fc96948b8e",
@@ -164,50 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "ba609adc7bdb0a31",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3ae3b999618cebb1",
-        "type": "window",
-        "children": [
-          {
-            "id": "85d66c232426cd9b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4decfc773711504b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily Notes/2024-01-17.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -960,
-        "y": 116,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-01-16.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-01-17.md",
+    "Notes/Daily Notes/2024-01-16.md",
     "Notes/Retro.md",
     "Notes/Daily Notes/2024-01-08.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-01-15.md",
     "Notes/Onboarding.md",
     "Untitled.md",
