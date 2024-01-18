@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-17.md",
+                "file": "Notes/Daily Notes/2024-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-17.md",
+                "file": "Notes/Daily Notes/2024-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-17.md",
+                "file": "Notes/Daily Notes/2024-01-18.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-01-17.md"
+                "file": "Notes/Daily Notes/2024-01-18.md"
               }
             }
           },
@@ -186,8 +186,10 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Task List.md",
+    "Notes/Personal Development/1-on-1's.md",
+    "Notes/Daily Notes/2024-01-18.md",
     "Notes/Daily Notes/2024-01-17.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-01-16.md",
     "Notes/Retro.md",
     "Notes/Daily Notes/2024-01-08.md",
@@ -196,7 +198,6 @@
     "Untitled.md",
     "Notes/Daily Notes/2024-01-10.md",
     "Notes/Daily Notes/2024-01-11.md",
-    "Notes/Personal Development/1-on-1's.md",
     "Notes/Data Repository.md",
     "Notes/Licensing.md",
     "Notes/Daily Notes/2024-01-02.md",

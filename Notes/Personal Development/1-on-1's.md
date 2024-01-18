@@ -1,9 +1,12 @@
-December:
+**December**:
 Identify leadership traits and expand from there.
 Communication
 Review onboarding and discuss with Kathryn
 
-January:
+---
+
+
+**January:**
 Interviews - take on the second interview
 Go over the questions for the interview process
 Not using teams as a social avenue
@@ -18,3 +21,6 @@ Accountability - use curiosity as a means to convey accountability - Are you run
 Potential Leadership books:
 Peter G Northhouse - Leadership
 The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever -Michael Bungay Stanier
+
+---
+
