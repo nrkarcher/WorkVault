@@ -13,3 +13,4 @@
 - [ ] Add a folder for 2016 localdb projects to the 10.8 folder ➕ 2024-01-11 [[Data Repository]]
 - [ ] Department Updates to Rob by Friday
 - [ ] Flag Deadline Jan 25
+- [ ] Check the retests in the high priority bugs portfolio
