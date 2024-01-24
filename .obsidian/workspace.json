@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3da93ce01ef1de",
+        "id": "c13ff5e459e7beeb",
         "type": "tabs",
-        "dimension": 67.95407098121086,
-        "children": [
-          {
-            "id": "4decfc773711504b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Licensing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "558d77387ebd30e7",
-        "type": "tabs",
-        "dimension": 32.045929018789145,
         "children": [
           {
             "id": "181176fc96948b8e",
@@ -38,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b09e431ee760bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2023-12-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Licensing.md",
+                "file": "Notes/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Licensing.md",
+                "file": "Notes/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Licensing.md"
+                "file": "Notes/2023-12-19.md"
               }
             }
           },
@@ -166,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,14 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4decfc773711504b",
+  "active": "4b09e431ee760bee",
   "lastOpenFiles": [
-    "Notes/2023-12-19.md",
-    "Notes/Licensing.md",
     "Task List.md",
-    "README.md",
+    "Notes/Licensing.md",
     "Home Notes/Home Notes.md",
     "Home Notes",
+    "Notes/2023-12-19.md",
+    "README.md",
     "Notes"
   ]
 }
