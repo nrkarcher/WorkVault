@@ -19,32 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87bb606a3972c5b7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "5111424eb61b2e74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -55,10 +31,11 @@
             "id": "03f6b1282816994a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "staged": false
+                "file": "Task List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task List.md"
+              }
             }
           },
           {
@@ -203,10 +184,10 @@
   },
   "active": "03f6b1282816994a",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-01-23.md",
     "Task List.md",
     "Untitled.canvas",
     "conflict-files-obsidian-git.md",
-    "Notes/Daily Notes/2024-01-23.md",
     "Notes/2023-12-19.md",
     "Notes/SeisWare Nations.md",
     "Notes/Personal Development/1-on-1's.md",
