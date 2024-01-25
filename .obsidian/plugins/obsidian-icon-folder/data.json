@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiWrench",
+      "LiWarehouse",
+      "LiPencilLine",
+      "LiSparkles"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,10 +19,14 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  }
+  },
+  "Task List.md": "LiSparkles",
+  "Notes": "LiPencilLine",
+  "Home Notes": "LiWarehouse",
+  "Notes/Personal Development": "LiWrench"
 }

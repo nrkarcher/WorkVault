@@ -1,2 +1,16 @@
-- [x] Add 10.8.2 to ftp ✅ 2023-12-19
-- [x] Send out company communication ⏫ ➕ 2023-12-19 📅 2023-12-20 ✅ 2023-12-19
+- [x] Add 10.8.2 to ftp ✅ [[2023-12-19]] 
+- [x] Send out company communication ⏫ ➕ [[2023-12-19]] 📅 2023-12-20 ✅ [[2023-12-19]]
+- [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16
+- [ ] Identify leadership traits before next 1-on-1 [[1-on-1's]]
+- [x] Complete 10.8.0 upgrade for all clean projects. ➕ 2023-12-21 [[Data Repository]]
+- [x] Test out single license and retest bug [[2024-01-02]]
+- [x] Send FF money to Austin
+- [x] Book review for Hellfire Club [[2024-01-18]] ✅ 2024-01-19
+- [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
+- [ ] Development Plan for 2024 [[1-on-1's]] Feb 7
+- [ ] Clear Roach [[2024-01-08]]
+- [ ] 10.8.3 test plan ➕ 2024-01-10 [[2024-01-10]]
+- [ ] Add a folder for 2016 localdb projects to the 10.8 folder ➕ 2024-01-11 [[Data Repository]]
+- [ ] Department Updates to Rob by Friday
+- [ ] Flag Deadline Jan 25
+- [ ] Check the retests in the high priority bugs portfolio
