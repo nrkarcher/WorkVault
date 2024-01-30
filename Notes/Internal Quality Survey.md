@@ -10,3 +10,10 @@ performance, stability, interface, usability,
 
 
 I feel that my team's level of collaboration with the product team is appropriate for my position and I feel that I am heard by the product team.
+
+---
+2024-01-30
+
+What still needs to be done?
+What are some examples of poor performance?
+- Modified some of the questions.

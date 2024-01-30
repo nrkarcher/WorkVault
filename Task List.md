@@ -11,6 +11,6 @@
 - [ ] Clear Roach [[2024-01-08]]
 - [ ] 10.8.3 test plan ➕ 2024-01-10 [[2024-01-10]]
 - [ ] Add a folder for 2016 localdb projects to the 10.8 folder ➕ 2024-01-11 [[Data Repository]]
-- [ ] Department Updates to Rob by Friday
-- [ ] Flag Deadline Jan 25
+- [x] Department Updates to Rob by Friday ✅ 2024-01-30
+- [x] Flag Deadline Jan 25 ✅ 2024-01-30
 - [ ] Check the retests in the high priority bugs portfolio
