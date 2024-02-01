@@ -40,20 +40,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8077229ea10b2ee1",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8077229ea10b2ee1",
+  "active": "22a27cb3d4052faa",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Task List.md",
