@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Internal Quality Survey.md",
+                "file": "Notes/Daily Notes/2024-02-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Internal Quality Survey.md",
+                "file": "Notes/Daily Notes/2024-02-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Internal Quality Survey.md",
+                "file": "Notes/Daily Notes/2024-02-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Internal Quality Survey.md"
+                "file": "Notes/Daily Notes/2024-02-02.md"
               }
             }
           },
@@ -186,9 +186,10 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
+    "Notes/Internal Quality Survey.md",
+    "Notes/Daily Notes/2024-02-02.md",
     "Notes/Daily Notes/2024-02-01.md",
     "Task List.md",
-    "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-01-30.md",
     "Notes/Daily Notes/2024-01-23.md",
     "Untitled.canvas",
@@ -214,7 +215,6 @@
     "Notes/Daily Notes",
     "2023-12-21.md",
     "Notes/Personal Development",
-    "README.md",
     "Home Notes",
     "Notes"
   ]
