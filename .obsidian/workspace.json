@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-02.md",
+                "file": "Notes/Daily Notes/2024-02-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-02.md",
+                "file": "Notes/Daily Notes/2024-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-02.md",
+                "file": "Notes/Daily Notes/2024-02-06.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-02.md"
+                "file": "Notes/Daily Notes/2024-02-06.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-02-02.md",
+    "Notes/Daily Notes/2024-02-06.md",
+    "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-02-01.md",
     "Task List.md",
     "Notes/Daily Notes/2024-01-30.md",
@@ -213,7 +214,6 @@
     "Notes/11.0 Upgrade.md",
     "Notes/Daily Notes/2024-01-04.md",
     "Notes/Daily Notes",
-    "2023-12-21.md",
     "Notes/Personal Development",
     "Home Notes",
     "Notes"
