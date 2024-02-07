@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Notes/Personal Development/1-on-1's.md"
               }
             }
           },
@@ -185,11 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "181176fc96948b8e",
+  "active": "4decfc773711504b",
   "lastOpenFiles": [
+    "Task List.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2024-02-07.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-02-06.md",
     "Notes/Daily Notes/2024-02-02.md",
     "Notes/Internal Quality Survey.md",
