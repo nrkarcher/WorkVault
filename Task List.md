@@ -17,4 +17,4 @@
 - [x] Flag Deadline Jan 25 ✅ 2024-01-30
 - [ ] Check the retests in the high priority bugs portfolio
 - [ ] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07
-- [ ] Ask PO's about the under review portfolios in the PO enhancementes
+- [ ] Ask PO's about the under review portfolios in the PO enhancements

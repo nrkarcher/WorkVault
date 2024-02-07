@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-07.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f3f10edb56a1074b",
@@ -188,6 +187,7 @@
   },
   "active": "181176fc96948b8e",
   "lastOpenFiles": [
+    "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2024-02-07.md",
     "Task List.md",
     "Notes/Daily Notes/2024-02-06.md",
@@ -203,7 +203,6 @@
     "Notes/Daily Notes/2024-01-18.md",
     "Notes/Daily Notes/2024-01-17.md",
     "Notes/Daily Notes/2023-12-19.md",
-    "Notes/Personal Development/1-on-1's.md",
     "Notes/Retro.md",
     "Notes/Daily Notes/2024-01-08.md",
     "Notes/Daily Notes/2024-01-15.md",
