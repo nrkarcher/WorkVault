@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Daily Notes/2024-02-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Daily Notes/2024-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Daily Notes/2024-02-13.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md"
+                "file": "Notes/Daily Notes/2024-02-13.md"
               }
             }
           },
@@ -172,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +187,9 @@
   "active": "4decfc773711504b",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-02-06.md",
-    "Notes/Daily Notes/2024-02-07.md",
+    "Notes/Daily Notes/2024-02-13.md",
     "Notes/Personal Development/1-on-1's.md",
+    "Notes/Daily Notes/2024-02-07.md",
     "Task List.md",
     "Notes/Daily Notes/2024-02-02.md",
     "Notes/Internal Quality Survey.md",
@@ -213,7 +213,6 @@
     "Notes/Data Repository.md",
     "Notes/Licensing.md",
     "Notes/Daily Notes/2024-01-02.md",
-    "Notes/11.0 Upgrade.md",
     "Notes/Daily Notes",
     "Notes/Personal Development",
     "Home Notes",
