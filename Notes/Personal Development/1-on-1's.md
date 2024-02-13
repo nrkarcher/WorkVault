@@ -24,3 +24,10 @@ The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever -Michae
 
 ---
 
+February:
+
+Fill out year end questions on the personal plan
+Flow chart for QA processes and what happens.
+Check for internet Updates - Double check that it is process and follow.
+
+
