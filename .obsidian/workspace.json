@@ -4,31 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "73f264e4dafee44f",
+        "id": "c13ff5e459e7beeb",
         "type": "tabs",
-        "dimension": 74.51282051282051,
+        "dimension": 76.81219110378913,
         "children": [
           {
-            "id": "4decfc773711504b",
+            "id": "181176fc96948b8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-13.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
         ]
       },
       {
-        "id": "558d77387ebd30e7",
+        "id": "c3eb305f882bf5b9",
         "type": "tabs",
-        "dimension": 25.48717948717949,
+        "dimension": 23.187808896210875,
         "children": [
           {
-            "id": "181176fc96948b8e",
+            "id": "03f6b1282816994a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -91,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "f3f10edb56a1074b",
@@ -107,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +122,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-13.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -146,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Daily Notes/2024-02-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,11 +163,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,37 +179,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4decfc773711504b",
+  "active": "22a27cb3d4052faa",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-02-13.md",
-    "Notes/Daily Notes/2024-02-06.md",
-    "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2024-02-07.md",
+    "Notes/Daily Notes/2024-02-06.md",
     "Notes/Daily Notes/2024-02-02.md",
-    "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-02-01.md",
+    "conflict-files-obsidian-git.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-01-30.md",
+    "Notes/Data Repository.md",
     "Notes/Daily Notes/2024-01-23.md",
     "Untitled.canvas",
-    "Notes/Daily Notes/2024-01-16.md",
-    "Notes/Daily Notes/2024-01-22.md",
+    "Notes/2023-12-19.md",
     "Notes/SeisWare Nations.md",
+    "Notes/Personal Development/1-on-1's.md",
+    "Notes/Personal Development",
+    "Notes/Onboarding.md",
+    "Notes/Internal Quality Survey.md",
+    "Notes/Daily Notes/2024-01-22.md",
     "Notes/Daily Notes/2024-01-18.md",
     "Notes/Daily Notes/2024-01-17.md",
-    "Notes/Daily Notes/2023-12-19.md",
-    "Notes/Retro.md",
-    "Notes/Daily Notes/2024-01-08.md",
+    "Notes/Daily Notes/2024-01-16.md",
     "Notes/Daily Notes/2024-01-15.md",
-    "Notes/Onboarding.md",
-    "Untitled.md",
-    "Notes/Daily Notes/2024-01-10.md",
     "Notes/Daily Notes/2024-01-11.md",
-    "Notes/Data Repository.md",
-    "Notes/Licensing.md",
+    "Notes/Daily Notes/2024-01-10.md",
+    "Notes/Daily Notes/2024-01-08.md",
+    "Notes/Daily Notes/2024-01-04.md",
     "Notes/Daily Notes/2024-01-02.md",
+    "Notes/Daily Notes/2023-12-19.md",
     "Notes/Daily Notes",
-    "Notes/Personal Development",
     "Home Notes",
     "Notes"
   ]
