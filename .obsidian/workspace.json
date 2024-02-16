@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Performance Discussion.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Performance Discussion.md",
+                "file": "Task List.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Performance Discussion.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -184,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4decfc773711504b",
+  "active": "181176fc96948b8e",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-02-13.md",
     "Notes/Performance Discussion.md",
+    "Notes/Daily Notes/2024-02-13.md",
     "Task List.md",
     "Notes/Daily Notes/2024-02-06.md",
     "Notes/Personal Development/1-on-1's.md",
