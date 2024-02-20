@@ -7,18 +7,18 @@
 - [x] Send FF money to Austin
 - [x] Book review for Hellfire Club [[2024-01-18]] ✅ 2024-01-19
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
-- [ ] Development Plan for 2024 [[1-on-1's]] Feb 7
+- [x] Development Plan for 2024 [[1-on-1's]] Feb 7 ✅ 2024-02-20
 - [ ] Clear Roach [[2024-01-08]]
-- [ ] 10.8.3 test plan ➕ 2024-01-10 [[2024-01-10]]
+- [x] 10.8.3 test plan ➕ 2024-01-10 [[2024-01-10]] ✅ 2024-02-20
 - [ ] Add a folder for 2016 localdb projects to the 10.8 folder ➕ 2024-01-11 [[Data Repository]]
 - [x] Department Updates to Rob by Friday ✅ 2024-02-01
 - [x] Flag Deadline Jan 25 ✅ 2024-02-01
 - [x] Department Updates to Rob by Friday ✅ 2024-01-30
 - [x] Flag Deadline Jan 25 ✅ 2024-01-30
-- [ ] Check the retests in the high priority bugs portfolio
+- [x] Check the retests in the high priority bugs portfolio ✅ 2024-02-20
 - [ ] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07
-- [ ] Ask PO's about the under review portfolios in the PO enhancements
+- [x] Ask PO's about the under review portfolios in the PO enhancements ✅ 2024-02-20
 - [ ] FDT Performance Testing
 - [ ] Fill out yearly review section of PD Plan [[1-on-1's]]
 - [ ] Talk to Amber about support downloads [[2024-02-13]]
-- [ ] Get Budget and number of employees for 
+- [ ] Get Budget and number of employees for OPPC

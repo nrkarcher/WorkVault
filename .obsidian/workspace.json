@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Performance Discussion.md",
+                "file": "Notes/Daily Notes/2024-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-02-20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Notes/Daily Notes/2024-02-20.md"
               }
             }
           },
@@ -184,11 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "181176fc96948b8e",
+  "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Notes/Performance Discussion.md",
-    "Notes/Daily Notes/2024-02-13.md",
     "Task List.md",
+    "Notes/Daily Notes/2024-02-20.md",
+    "Notes/Daily Notes/2024-02-13.md",
+    "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-02-06.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2024-02-07.md",
@@ -212,7 +213,6 @@
     "Notes/Daily Notes/2024-01-10.md",
     "Notes/Daily Notes/2024-01-11.md",
     "Notes/Data Repository.md",
-    "Notes/Licensing.md",
     "Notes/Daily Notes",
     "Notes/Personal Development",
     "Home Notes",
