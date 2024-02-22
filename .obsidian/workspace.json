@@ -12,10 +12,11 @@
             "id": "181176fc96948b8e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Notes/Data Repository.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Data Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Data Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Data Repository.md"
+              }
             }
           },
           {
@@ -179,8 +184,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22a27cb3d4052faa",
+  "active": "181176fc96948b8e",
   "lastOpenFiles": [
+    "Task List.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-02-20.md",
     "Notes/Daily Notes/2024-02-13.md",
@@ -189,7 +195,6 @@
     "Notes/Daily Notes/2024-02-02.md",
     "Notes/Daily Notes/2024-02-01.md",
     "conflict-files-obsidian-git.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-01-30.md",
     "Notes/Data Repository.md",
     "Notes/Daily Notes/2024-01-23.md",
