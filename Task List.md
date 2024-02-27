@@ -18,10 +18,10 @@
 - [x] Check the retests in the high priority bugs portfolio ✅ 2024-02-20
 - [ ] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07
 - [x] Ask PO's about the under review portfolios in the PO enhancements ✅ 2024-02-20
-- [ ] FDT Performance Testing
+- [x] FDT Performance Testing ✅ 2024-02-27
 - [ ] Fill out yearly review section of PD Plan [[1-on-1's]]
 - [ ] Talk to Amber about support downloads [[2024-02-13]]
-- [ ] Get Budget and number of employees for OPPC
+- [x] Get Budget and number of employees for OPPC ✅ 2024-02-27
 - [ ] Book 10.8.3 Post-mortem ➕ 2024-02-21
 - [ ] Update 10.8.3 ticket.
 - [ ] Descriptions for Large Datasets ➕ 2024-02-22 📅 2024-03-07
