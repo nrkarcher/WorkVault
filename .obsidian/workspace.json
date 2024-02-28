@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9948e3c9c341db55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -184,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "181176fc96948b8e",
+  "active": "9948e3c9c341db55",
   "lastOpenFiles": [
     "Task List.md",
     "Notes/Data Repository.md",
