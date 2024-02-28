@@ -14,24 +14,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data Repository.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9948e3c9c341db55",
+            "id": "4c6d3c33d311918b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Notes/Daily Notes/2024-02-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e52a1a5e3f3aacd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily Notes/2024-02-28.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -102,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f3f10edb56a1074b",
@@ -118,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Data Repository.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +205,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9948e3c9c341db55",
+  "active": "22a27cb3d4052faa",
   "lastOpenFiles": [
-    "Task List.md",
+    "conflict-files-obsidian-git.md",
+    "Notes/Daily Notes/2024-02-28.md",
+    "Untitled.md",
     "Notes/Data Repository.md",
+    "Notes/Daily Notes/2024-02-27.md",
+    "Task List.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-02-20.md",
     "Notes/Daily Notes/2024-02-13.md",
@@ -206,7 +220,6 @@
     "Notes/Daily Notes/2024-02-06.md",
     "Notes/Daily Notes/2024-02-02.md",
     "Notes/Daily Notes/2024-02-01.md",
-    "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-01-30.md",
     "Notes/Daily Notes/2024-01-23.md",
     "Untitled.canvas",
@@ -222,9 +235,6 @@
     "Notes/Daily Notes/2024-01-16.md",
     "Notes/Daily Notes/2024-01-15.md",
     "Notes/Daily Notes/2024-01-11.md",
-    "Notes/Daily Notes/2024-01-10.md",
-    "Notes/Daily Notes/2024-01-08.md",
-    "Notes/Daily Notes/2024-01-04.md",
     "Notes/Daily Notes",
     "Home Notes",
     "Notes"
