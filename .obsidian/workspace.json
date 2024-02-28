@@ -31,21 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e52a1a5e3f3aacd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily Notes/2024-02-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -132,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Daily Notes/2024-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Daily Notes/2024-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Daily Notes/2024-02-28.md"
+              }
             }
           },
           {
@@ -205,7 +197,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22a27cb3d4052faa",
+  "floating": {
+    "id": "e6083483f754ee62",
+    "type": "floating",
+    "children": [
+      {
+        "id": "51a3b1fd27acda44",
+        "type": "window",
+        "children": [
+          {
+            "id": "d1d2a6c47ed8a3e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e52a1a5e3f3aacd2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily Notes/2024-02-28.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1080,
+        "y": 936,
+        "width": 1080,
+        "height": 936,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e52a1a5e3f3aacd2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-02-28.md",
