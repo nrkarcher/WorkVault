@@ -11,3 +11,5 @@ Verify:
   
 **Example:  
     _signtool verify /pa myfile.exe_**
+
+https://learn.microsoft.com/en-us/windows/win32/seccrypto/signtool

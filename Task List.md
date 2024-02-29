@@ -14,7 +14,7 @@
 - [x] Department Updates to Rob by Friday ✅ 2024-02-01
 - [x] Flag Deadline Jan 25 ✅ 2024-02-01
 - [x] Department Updates to Rob by Friday ✅ 2024-01-30
-- [x] Flag Deadline Jan 25 ✅ 2024-01-30
+- [x] Flag Deadline Jan 25 ✅ 2024-01-30[[SeisWare Nations]]
 - [x] Check the retests in the high priority bugs portfolio ✅ 2024-02-20
 - [ ] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07
 - [x] Ask PO's about the under review portfolios in the PO enhancements ✅ 2024-02-20
