@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Onboarding.md"
+                "file": "Notes/Personal Development/1-on-1's.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
+    "Notes/Onboarding.md",
     "Notes/Signing.md",
     "Untitled.md",
     "Task List.md",
@@ -212,7 +213,6 @@
     "Notes/Daily Notes/2023-12-19.md",
     "Notes/Retro.md",
     "Notes/Daily Notes/2024-01-08.md",
-    "Notes/Daily Notes/2024-01-15.md",
     "Notes/Daily Notes",
     "Notes/Personal Development",
     "Home Notes",
