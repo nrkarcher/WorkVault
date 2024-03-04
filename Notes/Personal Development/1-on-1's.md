@@ -30,4 +30,17 @@ Fill out year end questions on the personal plan
 Flow chart for QA processes and what happens.
 Check for internet Updates - Double check that it is process and follow.
 
+---
+
+March:
+
+Add checklist for patch
+Bring up training with Kathryn at the QA meeting on Wednesday.
+- In charge of training.
+- Use other QA resources to help as see fit.
+Dashboard for automation results - March 18
+Look for commonalities in the retro board.
+
+
+
 
