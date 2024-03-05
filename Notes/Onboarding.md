@@ -13,5 +13,5 @@ Issues:
 Projects moved - Update documentation
 Project 1 doesn't open by default - make the instructions more clear, the project should be copied.
 Go through the project set-up and upgrade with the new user.
-Data loading requirement is unclear in train
+Data loading requirement is unclear in training schedule
 
