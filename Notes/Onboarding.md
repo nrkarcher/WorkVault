@@ -10,6 +10,7 @@ QA wiki
 
 ---
 Issues:
-Projects moved
-Project 1 doesn't open.
+Projects moved - Update documentation
+Project 1 doesn't open by default - make the instructions more clear, the project should be copied.
+Go through the project set-up and upgrade with the new user.
 
