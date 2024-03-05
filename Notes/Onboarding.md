@@ -7,3 +7,9 @@ QA wiki
 - Add registry reset instructions
 - Crucible link
 - Licensing information (from Andrew?)
+
+---
+Issues:
+Projects moved
+Project 1 doesn't open.
+
