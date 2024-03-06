@@ -1,27 +1,30 @@
-- [x] Add 10.8.2 to ftp ✅ [[2023-12-19]] 
-- [x] Send out company communication ⏫ ➕ [[2023-12-19]] 📅 2023-12-20 ✅ [[2023-12-19]]
-- [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16
-- [x] Identify leadership traits before next 1-on-1 [[1-on-1's]] ✅ 2024-02-13
-- [x] Complete 10.8.0 upgrade for all clean projects. ➕ 2023-12-21 [[Data Repository]]
-- [x] Test out single license and retest bug [[2024-01-02]]
-- [x] Send FF money to Austin
-- [x] Book review for Hellfire Club [[2024-01-18]] ✅ 2024-01-19
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
-- [x] Development Plan for 2024 [[1-on-1's]] Feb 7 ✅ 2024-02-20
 - [ ] Clear Roach [[2024-01-08]]
-- [x] 10.8.3 test plan ➕ 2024-01-10 [[2024-01-10]] ✅ 2024-02-20
 - [ ] Add a folder for 2016 localdb projects to the 10.8 folder ➕ 2024-01-11 [[Data Repository]]
-- [x] Department Updates to Rob by Friday ✅ 2024-02-01
-- [x] Flag Deadline Jan 25 ✅ 2024-02-01
-- [x] Department Updates to Rob by Friday ✅ 2024-01-30
-- [x] Flag Deadline Jan 25 ✅ 2024-01-30[[SeisWare Nations]]
-- [x] Check the retests in the high priority bugs portfolio ✅ 2024-02-20
 - [ ] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07
-- [x] Ask PO's about the under review portfolios in the PO enhancements ✅ 2024-02-20
-- [x] FDT Performance Testing ✅ 2024-02-27
-- [ ] Fill out yearly review section of PD Plan [[1-on-1's]]
 - [ ] Talk to Amber about support downloads [[2024-02-13]]
-- [x] Get Budget and number of employees for OPPC ✅ 2024-02-27
 - [ ] Book 10.8.3 Post-mortem ➕ 2024-02-21
-- [ ] Update 10.8.3 ticket.
 - [ ] DASHBOARD ➕ 2024-02-22 📅 2024-03-18
+
+# Archived
+
+- [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Book review for Hellfire Club [[2024-01-18]] ✅ 2024-01-19 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Department Updates to Rob by Friday ✅ 2024-01-30 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Flag Deadline Jan 25 ✅ 2024-01-30[[SeisWare Nations]] 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Department Updates to Rob by Friday ✅ 2024-02-01 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Flag Deadline Jan 25 ✅ 2024-02-01 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Identify leadership traits before next 1-on-1 [[1-on-1's]] ✅ 2024-02-13 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Development Plan for 2024 [[1-on-1's]] Feb 7 ✅ 2024-02-20 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] 10.8.3 test plan ➕ 2024-01-10 [[2024-01-10]] ✅ 2024-02-20 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Check the retests in the high priority bugs portfolio ✅ 2024-02-20 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] FDT Performance Testing ✅ 2024-02-27 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Get Budget and number of employees for OPPC ✅ 2024-02-27 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Add 10.8.2 to ftp ✅ [[2023-12-19]]  🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Send out company communication ⏫ ➕ [[2023-12-19]] 📅 2023-12-20 ✅ [[2023-12-19]] 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Complete 10.8.0 upgrade for all clean projects. ➕ 2023-12-21 [[Data Repository]] 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Test out single license and retest bug [[2024-01-02]] 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Send FF money to Austin 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Ask PO's about the under review portfolios in the PO enhancements ✅ 2024-03-06 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Fill out yearly review section of PD Plan [[1-on-1's]] ✅ 2024-03-06 🔒 [[2024-03-06]] 🕸️ Task List
+- [x] Update 10.8.3 ticket. ✅ 2024-03-06 🔒 [[2024-03-06]] 🕸️ Task List
