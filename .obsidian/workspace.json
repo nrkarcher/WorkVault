@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-02-28.md",
+                "file": "Notes/Onboarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Onboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Onboarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Notes/Onboarding.md"
               }
             }
           },
@@ -184,11 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03f6b1282816994a",
+  "active": "4c6d3c33d311918b",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-02-28.md",
-    "Notes/Signing.md",
     "Task List.md",
+    "Notes/Signing.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Notes/Data Repository.md",
