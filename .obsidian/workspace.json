@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Daily Notes/2024-03-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Daily Notes/2024-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Daily Notes/2024-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Onboarding.md"
+                "file": "Notes/Daily Notes/2024-03-07.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,6 +186,8 @@
   },
   "active": "4c6d3c33d311918b",
   "lastOpenFiles": [
+    "Notes/Onboarding.md",
+    "Notes/Daily Notes/2024-03-07.md",
     "Notes/Daily Notes/2024-02-28.md",
     "Task List.md",
     "Notes/Signing.md",
@@ -207,13 +209,11 @@
     "Notes/SeisWare Nations.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Personal Development",
-    "Notes/Onboarding.md",
     "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-01-22.md",
     "Notes/Daily Notes/2024-01-18.md",
     "Notes/Daily Notes/2024-01-17.md",
     "Notes/Daily Notes/2024-01-16.md",
-    "Notes/Daily Notes/2024-01-15.md",
     "Notes/Daily Notes",
     "Home Notes",
     "Notes"
