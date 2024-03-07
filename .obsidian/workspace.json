@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-03-07.md",
+                "file": "Notes/Daily Notes/2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-03-07.md",
+                "file": "Notes/Daily Notes/2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-03-07.md",
+                "file": "Notes/Daily Notes/2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-03-07.md"
+                "file": "Notes/Daily Notes/2024-02-27.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "4c6d3c33d311918b",
   "lastOpenFiles": [
-    "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-03-07.md",
+    "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-02-28.md",
     "Task List.md",
     "Notes/Signing.md",
