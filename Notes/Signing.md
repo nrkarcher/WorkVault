@@ -30,16 +30,16 @@ Get-ChildItem -Path "C:\YourFolder" -Recurse | ForEach-Object {
 
 Test .exe files, detailed errors:
 
-`Get-ChildItem -Path "C:\Program Files\SII 10.8\Program" -Filter *.exe -Recurse | ForEach-Object {`
-    `try {`
-        `& "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\signtool.exe" verify /pa /v $_.FullName`
-    `} catch {`
-        `Write-Host "Error verifying file: $($_.FullName)"`
-        `Write-Host "Exception Message: $($_.Exception.Message)"`
-        `Write-Host "Inner Exception Message: $($_.Exception.InnerException.Message)"`
-    `}`
-`} | Out-File -FilePath "C:\SigningVerification\verification_results.txt"``
-`
+Get-ChildItem -Path "C:\Program Files\SII 10.8\Program" -Filter .exe -Recurse | ForEach-Object {
+    try {
+        & "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\signtool.exe" verify /pa /v $_.FullName
+    } catch {
+        Write-Host "Error verifying file: (_.FullName)"
+        Write-Host "Exception Message: (_.Exception.Message)"
+        Write-Host "Inner Exception Message: (_.Exception.InnerException.Message)"
+    }
+} | Out-File -FilePath "C:\SigningVerification\verification_results.txt"
+
 
 
 ---
