@@ -14,12 +14,38 @@ Verify:
 
 https://learn.microsoft.com/en-us/windows/win32/seccrypto/signtool
 
+---
+
+# Test Signing on All Output files
+
+Run Powershell as Administrator
+
+All Files in the folder:
 ```powershell
 Get-ChildItem -Path "C:\YourFolder" -Recurse | ForEach-Object {
     "C:\Program Files (x86)\Windows Kits\10\bin\x64\signtool.exe" verify /pa $_.FullName
 }
 ```
+
+
+Test .exe files, detailed errors:
+
+`Get-ChildItem -Path "C:\Program Files\SII 10.8\Program" -Filter *.exe -Recurse | ForEach-Object {`
+    `try {`
+        `& "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\signtool.exe" verify /pa /v $_.FullName`
+    `} catch {`
+        `Write-Host "Error verifying file: $($_.FullName)"`
+        `Write-Host "Exception Message: $($_.Exception.Message)"`
+        `Write-Host "Inner Exception Message: $($_.Exception.InnerException.Message)"`
+    `}`
+`} | Out-File -FilePath "C:\SigningVerification\verification_results.txt"``
+`
+
+
 ---
+
+Output Results for Installers:
+
 Verifying: M:\mlazarevic\10.8.3\Rerecut\SeisWare_10.8.3.118_x64_SII.exe
 
 Signature Index: 0 (Primary Signature)
