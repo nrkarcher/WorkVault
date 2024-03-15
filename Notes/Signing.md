@@ -14,6 +14,11 @@ Verify:
 
 https://learn.microsoft.com/en-us/windows/win32/seccrypto/signtool
 
+```powershell
+Get-ChildItem -Path "C:\YourFolder" -Recurse | ForEach-Object {
+    "C:\Program Files (x86)\Windows Kits\10\bin\x64\signtool.exe" verify /pa $_.FullName
+}
+```
 ---
 Verifying: M:\mlazarevic\10.8.3\Rerecut\SeisWare_10.8.3.118_x64_SII.exe
 
