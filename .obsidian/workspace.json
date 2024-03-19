@@ -9,17 +9,6 @@
         "dimension": 76.81219110378913,
         "children": [
           {
-            "id": "4c6d3c33d311918b",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "cfb148fd0f628fad",
             "type": "leaf",
             "state": {
@@ -31,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3eb305f882bf5b9",
