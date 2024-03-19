@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-03-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-03-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-03-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Signing.md"
+                "file": "Notes/Daily Notes/2024-03-19.md"
               }
             }
           },
@@ -186,10 +186,11 @@
   },
   "active": "cfb148fd0f628fad",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Notes/Signing.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-03-12.md",
+    "Notes/Daily Notes/2024-03-19.md",
+    "Notes/Signing.md",
+    "conflict-files-obsidian-git.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-03-07.md",
     "Notes/Daily Notes/2024-02-27.md",
     "Notes/Onboarding.md",
@@ -213,7 +214,6 @@
     "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-01-22.md",
     "Notes/Daily Notes/2024-01-18.md",
-    "Notes/Daily Notes/2024-01-17.md",
     "Notes/Daily Notes",
     "Home Notes",
     "Notes"
