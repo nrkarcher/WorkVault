@@ -16,4 +16,6 @@ Issues:
 - Data loading requirement is unclear in training schedule
 - On page 53 of that module is 82-2-115.STK.0.sgy a typo? I can't find that file anywhere but I have 84-2-115.STK.0.sgy
 - Data Loading QC Checklist exercise what values I should be comparing the shot point values to? It says "Values should correspond to tape label and tape case"
+- Synthetics could be explained better
+- 
 

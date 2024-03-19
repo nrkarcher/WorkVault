@@ -1,1 +1,4 @@
-How we disappeared by Jing-Jing Lee follows the story of Wang-Di as she survives the horrors of being a "comfort girl" in Singapore during the Japanese occupation and Kevin in  
+How we disappeared by Jing-Jing Lee follows the story of Wang-Di as she survives the horrors of being a "comfort girl" in Singapore during the Japanese occupation and Kevin in a more present day setting dealing with the death of his grandmother and looking for his relatives. This was a tough book to read, Wang-Di's experiences were harrowing and uncomfortable, the tension and fear were very present throughout. Switching to a Kevin chapter felt a deviation from the more compelling story and his story-line had significantly lower stakes giving me a bit of whiplash when switching between the two. Overall it was an interesting story, told from a perspective that I haven't heard before but it would be a tough book to recommend to someone. 3/5
+
+There is no Antimemetics Division
+This was my pick for book club.
