@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-03-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f3f10edb56a1074b",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-03-20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Signing.md"
+                "file": "Notes/Daily Notes/2024-03-20.md"
               }
             }
           },
@@ -172,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,9 +188,10 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-03-19.md",
     "Task List.md",
+    "Notes/Daily Notes/2024-03-20.md",
     "Notes/Signing.md",
+    "Notes/Daily Notes/2024-03-19.md",
     "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-03-12.md",
     "Notes/Daily Notes/2024-03-07.md",
@@ -212,7 +215,6 @@
     "Untitled.canvas",
     "Notes/Daily Notes/2024-01-16.md",
     "Notes/Daily Notes/2024-01-22.md",
-    "Notes/SeisWare Nations.md",
     "Notes/Daily Notes",
     "Notes/Personal Development",
     "Home Notes",
