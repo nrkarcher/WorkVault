@@ -41,6 +41,19 @@ Bring up training with Kathryn at the QA meeting on Wednesday.
 Dashboard for automation results - March 18
 Look for commonalities in the retro board.
 
+---
+
+April:
+
+Better process for transitioning from training to testing.
+Finish course before next meeting.
+Rest of this sprint and next sprint on the bug busters, and then transition over to gun barrel. 
+May 1st
+- Mila to take over bug busters. Andrew as PO
+- Transition over to gun barrel
+Find some opportunities to get Mila on the board a little more.
+- Pick some stories for Mila - SV 11013 10583 
+
 
 
 
