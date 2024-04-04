@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-04.md",
+                "file": "Notes/Data Repository.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-04.md",
+                "file": "Notes/Data Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-04.md",
+                "file": "Notes/Data Repository.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-04.md"
+                "file": "Notes/Data Repository.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Home Notes/Home Notes.md",
     "Notes/Daily Notes/2024-04-04.md",
+    "Home Notes/Home Notes.md",
     "Task List.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Signing.md",
