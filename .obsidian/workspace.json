@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Home Notes/Home Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Home Notes/Home Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Home Notes/Home Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md"
+                "file": "Home Notes/Home Notes.md"
               }
             }
           },
@@ -186,19 +186,19 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Notes/Signing.md",
+    "Task List.md",
+    "Home Notes/Home Notes.md",
     "Notes/Personal Development/1-on-1's.md",
+    "Notes/Signing.md",
     "Notes/Onboarding.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-03-26.md",
     "Notes/Daily Notes/2024-03-12.md",
     "Notes/Daily Notes/2024-03-20.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-03-19.md",
     "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-03-07.md",
     "Notes/Licensing.md",
-    "Home Notes/Home Notes.md",
     "Untitled.md",
     "Notes/Daily Notes/2024-02-27.md",
     "Notes/Daily Notes/2024-02-28.md",
