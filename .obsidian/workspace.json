@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Notes/Home Notes.md",
+                "file": "Notes/Daily Notes/2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Notes/Home Notes.md",
+                "file": "Notes/Daily Notes/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Notes/Home Notes.md",
+                "file": "Notes/Daily Notes/2024-04-04.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Notes/Home Notes.md"
+                "file": "Notes/Daily Notes/2024-04-04.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
-    "Task List.md",
     "Home Notes/Home Notes.md",
+    "Notes/Daily Notes/2024-04-04.md",
+    "Task List.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Signing.md",
     "Notes/Onboarding.md",
@@ -212,7 +213,6 @@
     "Notes/Daily Notes/2024-01-30.md",
     "Notes/Daily Notes/2024-01-23.md",
     "Untitled.canvas",
-    "Notes/Daily Notes/2024-01-16.md",
     "Notes/Daily Notes",
     "Notes/Personal Development",
     "Home Notes",
