@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data Repository.md",
+                "file": "Notes/Daily Notes/2024-03-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data Repository.md",
+                "file": "Notes/Daily Notes/2024-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data Repository.md",
+                "file": "Notes/Daily Notes/2024-03-26.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data Repository.md"
+                "file": "Notes/Daily Notes/2024-03-26.md"
               }
             }
           },
@@ -186,17 +186,18 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-03-20.md",
     "Notes/Daily Notes/2024-04-04.md",
-    "Home Notes/Home Notes.md",
     "Task List.md",
+    "Notes/Daily Notes/2024-03-19.md",
+    "Notes/Daily Notes/2024-03-12.md",
+    "Notes/Data Repository.md",
+    "Home Notes/Home Notes.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Signing.md",
     "Notes/Onboarding.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-03-26.md",
-    "Notes/Daily Notes/2024-03-12.md",
-    "Notes/Daily Notes/2024-03-20.md",
-    "Notes/Daily Notes/2024-03-19.md",
     "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-03-07.md",
     "Notes/Licensing.md",
@@ -211,7 +212,6 @@
     "Notes/Daily Notes/2024-02-02.md",
     "Notes/Daily Notes/2024-02-01.md",
     "Notes/Daily Notes/2024-01-30.md",
-    "Notes/Daily Notes/2024-01-23.md",
     "Untitled.canvas",
     "Notes/Daily Notes",
     "Notes/Personal Development",

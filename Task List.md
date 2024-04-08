@@ -1,6 +1,5 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Clear Roach [[2024-01-08]]
-- [ ] Add a folder for 2016 localdb projects to the 10.8 folder ➕ 2024-01-11 [[Data Repository]]
 - [ ] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07
 - [ ] Talk to Amber about support downloads [[2024-02-13]]
 - [ ] Book 10.8.3 Post-mortem ➕ 2024-02-21
@@ -28,3 +27,4 @@
 - [x] Fill out yearly review section of PD Plan [[1-on-1's]] ✅ 2024-03-06 🔒 [[2024-03-06]] 🕸️ Task List
 - [x] Update 10.8.3 ticket. ✅ 2024-03-06 🔒 [[2024-03-06]] 🕸️ Task List
 - [x] DASHBOARD ➕ 2024-02-22 📅 2024-03-18 ✅ 2024-03-20 🔒 [[2024-03-20]] 🕸️ Task List
+- [x] Add a folder for 2016 localdb projects to the 10.8 folder ➕ 2024-01-11 [[Data Repository]] ✅ 2024-04-05 🔒 [[2024-04-05]] 🕸️ Task List
