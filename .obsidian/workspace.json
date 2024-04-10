@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-09.md",
+                "file": "Notes/Signing.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-09.md",
+                "file": "Notes/Signing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-09.md",
+                "file": "Notes/Signing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-09.md"
+                "file": "Notes/Signing.md"
               }
             }
           },
@@ -186,6 +186,10 @@
   },
   "active": "4decfc773711504b",
   "lastOpenFiles": [
+    "Notes/Onboarding.md",
+    "Notes/Signing.md",
+    "Notes/SeisWare Nations.md",
+    "Notes/Performance Discussion.md",
     "Task List.md",
     "Notes/Daily Notes/2024-04-09.md",
     "Notes/Daily Notes/2024-03-26.md",
@@ -197,9 +201,6 @@
     "Notes/Data Repository.md",
     "Home Notes/Home Notes.md",
     "Notes/Personal Development/1-on-1's.md",
-    "Notes/Signing.md",
-    "Notes/Onboarding.md",
-    "Notes/Performance Discussion.md",
     "Notes/Internal Quality Survey.md",
     "Notes/Daily Notes/2024-03-07.md",
     "Notes/Licensing.md",
@@ -211,7 +212,6 @@
     "Notes/Daily Notes/2024-02-13.md",
     "Notes/Daily Notes/2024-02-06.md",
     "Notes/Daily Notes/2024-02-07.md",
-    "Notes/Daily Notes/2024-02-02.md",
     "Untitled.canvas",
     "Notes/Daily Notes",
     "Notes/Personal Development",
