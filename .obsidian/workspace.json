@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-04-10.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Signing.md"
+                "file": "Notes/Daily Notes/2024-04-10.md"
               }
             }
           },
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +184,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4decfc773711504b",
+  "floating": {
+    "id": "0d637ecdbbea9bd7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cf980f235400d133",
+        "type": "window",
+        "children": [
+          {
+            "id": "34b51d3a1247d13c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "783b5f86e21b7778",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily Notes/2024-04-10.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -960,
+        "y": 116,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "783b5f86e21b7778",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-04-10.md",
     "Notes/Onboarding.md",
     "Notes/Signing.md",
     "Notes/SeisWare Nations.md",
@@ -211,7 +249,6 @@
     "Notes/Daily Notes/2024-02-20.md",
     "Notes/Daily Notes/2024-02-13.md",
     "Notes/Daily Notes/2024-02-06.md",
-    "Notes/Daily Notes/2024-02-07.md",
     "Untitled.canvas",
     "Notes/Daily Notes",
     "Notes/Personal Development",
