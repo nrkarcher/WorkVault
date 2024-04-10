@@ -9,18 +9,6 @@
         "dimension": 74.51282051282051,
         "children": [
           {
-            "id": "4decfc773711504b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Signing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "783b5f86e21b7778",
             "type": "leaf",
             "state": {
@@ -32,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "558d77387ebd30e7",
@@ -185,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,19 +186,19 @@
   },
   "active": "783b5f86e21b7778",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-03-20.md",
+    "Notes/Daily Notes/2024-03-26.md",
+    "Notes/Daily Notes/2024-03-12.md",
+    "Notes/Daily Notes/2024-03-19.md",
+    "Notes/Daily Notes/2024-04-09.md",
     "Notes/Daily Notes/2024-04-10.md",
+    "Task List.md",
     "Notes/Onboarding.md",
     "Notes/Signing.md",
     "Notes/SeisWare Nations.md",
     "Notes/Performance Discussion.md",
-    "Task List.md",
-    "Notes/Daily Notes/2024-04-09.md",
-    "Notes/Daily Notes/2024-03-26.md",
     "Notes/Daily Notes/2024-04-08.md",
-    "Notes/Daily Notes/2024-03-20.md",
     "Notes/Daily Notes/2024-04-04.md",
-    "Notes/Daily Notes/2024-03-19.md",
-    "Notes/Daily Notes/2024-03-12.md",
     "Notes/Data Repository.md",
     "Home Notes/Home Notes.md",
     "Notes/Personal Development/1-on-1's.md",
