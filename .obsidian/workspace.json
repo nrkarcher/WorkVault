@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "783b5f86e21b7778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily Notes/2024-04-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "558d77387ebd30e7",
@@ -183,43 +196,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
-  },
-  "floating": {
-    "id": "0d637ecdbbea9bd7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cf980f235400d133",
-        "type": "window",
-        "children": [
-          {
-            "id": "34b51d3a1247d13c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "783b5f86e21b7778",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily Notes/2024-04-10.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -960,
-        "y": 116,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "783b5f86e21b7778",
   "lastOpenFiles": [
