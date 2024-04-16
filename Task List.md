@@ -2,7 +2,7 @@
 - [ ] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07
 - [ ] Talk to Amber about support downloads [[2024-02-13]]
 - [ ] Book 10.8.3 Post-mortem ➕ 2024-02-21
-- [ ] Smoke test 10.8.3 with Mila ➕ 2024-04-09
+- [x] Smoke test 10.8.3 with Mila ➕ 2024-04-09 ✅ 2024-04-16
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
