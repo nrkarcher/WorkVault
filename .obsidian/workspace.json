@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LocalDB.md",
+                "file": "Notes/Daily Notes/2024-04-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LocalDB.md",
+                "file": "Notes/Daily Notes/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LocalDB.md",
+                "file": "Notes/Daily Notes/2024-04-16.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LocalDB.md"
+                "file": "Notes/Daily Notes/2024-04-16.md"
               }
             }
           },
@@ -186,10 +186,11 @@
   },
   "active": "783b5f86e21b7778",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-04-10.md",
     "Notes/Daily Notes/2024-04-16.md",
     "Notes/LocalDB.md",
+    "Notes/Daily Notes/2024-04-18.md",
     "Task List.md",
-    "Notes/Daily Notes/2024-04-10.md",
     "Notes/Daily Notes/2024-03-20.md",
     "Notes/Daily Notes/2024-03-26.md",
     "Notes/Daily Notes/2024-03-12.md",
@@ -211,7 +212,6 @@
     "Notes/Daily Notes/2024-02-27.md",
     "Notes/Daily Notes/2024-02-28.md",
     "Notes/Daily Notes/2024-02-26.md",
-    "Notes/Daily Notes/2024-02-20.md",
     "Untitled.canvas",
     "Notes/Daily Notes",
     "Notes/Personal Development",
