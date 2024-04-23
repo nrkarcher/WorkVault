@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-04-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-04-23.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Signing.md"
+                "file": "Notes/Daily Notes/2024-04-23.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   "active": "783b5f86e21b7778",
   "lastOpenFiles": [
     "Task List.md",
-    "Notes/Signing.md",
+    "Notes/Daily Notes/2024-04-23.md",
     "Notes/Daily Notes/2024-04-16.md",
+    "Notes/Signing.md",
     "Notes/Daily Notes/2024-04-10.md",
     "Notes/LocalDB.md",
     "Notes/Daily Notes/2024-04-18.md",
@@ -211,7 +212,6 @@
     "Untitled.md",
     "Notes/Daily Notes/2024-02-27.md",
     "Notes/Daily Notes/2024-02-28.md",
-    "Notes/Daily Notes/2024-02-26.md",
     "Untitled.canvas",
     "Notes/Daily Notes",
     "Notes/Personal Development",
