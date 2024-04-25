@@ -19,8 +19,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "348a4c3f677a744d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "7eb2ac1312cfc97f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "fd872fb6e9290c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -107,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Signing.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -168,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,13 +218,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfb148fd0f628fad",
+  "active": "03f6b1282816994a",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-03-19.md",
-    "Notes/Signing.md",
-    "Notes/Daily Notes/2024-03-12.md",
     "conflict-files-obsidian-git.md",
+    "Notes/LocalDB.md",
+    "Notes/Daily Notes/2024-04-23.md",
+    "Notes/Daily Notes/2024-04-16.md",
+    "Notes/Daily Notes/2024-04-10.md",
+    "Notes/Daily Notes/2024-04-09.md",
+    "Notes/Daily Notes/2024-03-26.md",
+    "Notes/Daily Notes/2024-03-20.md",
     "Task List.md",
+    "Notes/Signing.md",
+    "Notes/Daily Notes/2024-03-19.md",
+    "Notes/Daily Notes/2024-03-12.md",
     "Notes/Daily Notes/2024-03-07.md",
     "Notes/Daily Notes/2024-02-27.md",
     "Notes/Onboarding.md",
@@ -205,15 +246,8 @@
     "Notes/Daily Notes/2024-02-02.md",
     "Notes/Daily Notes/2024-02-01.md",
     "Notes/Daily Notes/2024-01-30.md",
-    "Notes/Daily Notes/2024-01-23.md",
     "Untitled.canvas",
-    "Notes/2023-12-19.md",
-    "Notes/SeisWare Nations.md",
-    "Notes/Personal Development/1-on-1's.md",
     "Notes/Personal Development",
-    "Notes/Internal Quality Survey.md",
-    "Notes/Daily Notes/2024-01-22.md",
-    "Notes/Daily Notes/2024-01-18.md",
     "Notes/Daily Notes",
     "Home Notes",
     "Notes"

@@ -9,3 +9,5 @@ Move sharedprojects into clean projects.
 
 Fix up clean projects.
 - MSR is going to be a general data repository.
+
+- Add descriptions for projects in the shared directory.

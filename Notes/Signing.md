@@ -25,7 +25,7 @@ Run Powershell as Administrator
 Basic Solution - All Files in the folder:
 ```powershell
 Get-ChildItem -Path "C:\YourFolder" -Recurse | ForEach-Object {
-    "C:\Program Files (x86)\Windows Kits\10\bin\x64\signtool.exe" verify /pa $_.FullName
+    "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\signtool.exe verify /pa $_.FullName
 }
 ```
 
