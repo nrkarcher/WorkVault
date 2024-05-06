@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-30.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-30.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-30.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-04-30.md"
+                "file": "Notes/Personal Development/1-on-1's.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "cfb148fd0f628fad",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-04-30.md",
+    "Task List.md",
     "Notes/Data Repository.md",
     "Notes/Signing.md",
     "conflict-files-obsidian-git.md",
