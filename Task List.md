@@ -1,6 +1,6 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
-- [ ] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07
-- [ ] Book 10.8.3 Post-mortem ➕ 2024-02-21
+- [x] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07 ✅ 2024-05-13
+- [x] Book 10.8.3 Post-mortem ➕ 2024-02-21 ✅ 2024-05-13
 - [ ] 11.0 Release Plan
 - [x] Book FTP meeting with QA and PO. ➕ 2024-04-23 ✅ 2024-04-30
 - [ ] Update Wiki with ftp
