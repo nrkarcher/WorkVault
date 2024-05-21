@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data Repository.md",
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data Repository.md",
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data Repository.md",
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data Repository.md"
+                "file": "Notes/Daily Notes/2024-05-21.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "cfb148fd0f628fad",
   "lastOpenFiles": [
+    "Notes/Data Repository.md",
+    "Notes/Daily Notes/2024-05-21.md",
     "Notes/Signing.md",
     "Task List.md",
     "conflict-files-obsidian-git.md",
@@ -203,7 +205,6 @@
     "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-02-28.md",
     "Untitled.md",
-    "Notes/Data Repository.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-02-20.md",
     "Notes/Daily Notes/2024-02-13.md",
@@ -211,7 +212,6 @@
     "Notes/Daily Notes/2024-02-06.md",
     "Notes/Daily Notes/2024-02-02.md",
     "Notes/Daily Notes/2024-02-01.md",
-    "Notes/Daily Notes/2024-01-30.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
