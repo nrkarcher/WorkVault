@@ -55,5 +55,19 @@ Find some opportunities to get Mila on the board a little more.
 - Pick some stories for Mila - SV 11013 10583 
 
 
+---
+
+May:
+
+Book 10.8.3 postmortem
+Look for opportunities to pair test with Mila
+Book days off
+Skill chart
+Call people out and encourage engagement
+How do we make retros better?
+	- Find some ideas for how that can
+
+
+
 
 

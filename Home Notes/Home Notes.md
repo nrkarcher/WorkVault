@@ -2,3 +2,7 @@ How we disappeared by Jing-Jing Lee follows the story of Wang-Di as she survives
 
 There is no Antimemetics Division by qntm
 This was my pick for book club, I saw it on a list of new science fiction novels and judging solely on the cover I decided that this looked like an interesting book. I went into this book with no prior knowledge and I'm glad that I did, it was certainly a unique story and fun to read. There was kind of an existential horror that goes with trying to fight(?) an entity that defies memory that made the conflict in the story different from anything else that I have read. Any other attempt I make to describe this book seems to slip from my memory but I will say that I enjoyed the novel and look forward to reading more from qntm. 4.5/5
+
+A Psalm for the Wild Built by Becky Chambers
+This book is hard to review, it feels like the first chapter of a book. I kept waiting for something to happen but this isn't that kind of book. It feels very cozy and pleasant as we follow a tea monk as they travel around listening to peoples problems and giving them tea, while also dealing with their own internal conflict, and then they meet a robot and have a chat. That's pretty much the whole story. The conversations are interesting and the solarpunk environment is a different take that I haven't seen a lot of before but I felt like there just could have been more.
+2.5/5
