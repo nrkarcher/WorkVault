@@ -13,4 +13,5 @@ QT 6.7 adds support for 2nd bar, line and scatter graphs
 - If we update QT we get these features.
 - Might be able to replace IOcomp
 - Do we want a pros/cons list for QT upgrade?
-- We have a
+- Currently we have a ticket to upgrade to 5.15
+- Research what we can gain from upgrading to 6.7 Garby (6 Month timeline)
