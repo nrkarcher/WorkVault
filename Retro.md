@@ -20,3 +20,10 @@ QT 6.7 adds support for 2nd bar, line and scatter graphs
 - Do we want a pros/cons list for QT upgrade?
 - Currently we have a ticket to upgrade to 5.15
 - Research what we can gain from upgrading to 6.7 Garby (6 Month timeline)
+
+Retro
+
+
+
+
+

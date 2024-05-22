@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md",
+                "file": "Retro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md",
+                "file": "Retro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md"
+                "file": "Retro.md"
               }
             }
           },
@@ -221,10 +221,10 @@
       }
     ]
   },
-  "active": "cfb148fd0f628fad",
+  "active": "0912d8d263a9fdad",
   "lastOpenFiles": [
-    "Retro.md",
     "Notes/Daily Notes/2024-05-21.md",
+    "Retro.md",
     "Task List.md",
     "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-05-14.md",
