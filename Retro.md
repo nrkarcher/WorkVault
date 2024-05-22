@@ -33,7 +33,8 @@ Lucius - book meeting for coordinate system issue.
 Automating build numbers - Milos to add as a Lolla project
 Rotating Critical Captain/Support Need Help person - Rotate every sprint 
 Project Investigation - Where do we post these?
-- 
+- Will be included in V1 for now, might be combined with the other notes after that dev topic is resolved.
+Subsurface AI - Aidan to do
 
 
 
