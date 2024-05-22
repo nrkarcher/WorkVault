@@ -28,6 +28,8 @@ How do we address tickets that blow up like the wellzone ticket? What can we do?
 - Bug Busters - Discuss re-estimating the ticket.
 - It seems like the team was doing the right thing at the time. Maybe push a little harder? Keep an eye on scope creep.
 - All: Re-estimate stories that grow - keep the planned estimate and update the estimate field.
+Lucius - book meeting for coordinate system issue.
+
 
 
 
