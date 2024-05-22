@@ -27,7 +27,7 @@ How do we address tickets that blow up like the wellzone ticket? What can we do?
 - Should this ticket be re-estimated after completion?
 - Bug Busters - Discuss re-estimating the ticket.
 - It seems like the team was doing the right thing at the time. Maybe push a little harder? Keep an eye on scope creep.
-- 
+- All: Re-estimate stories that grow - keep the planned estimate and update the estimate field.
 
 
 
