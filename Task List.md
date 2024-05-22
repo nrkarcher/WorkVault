@@ -5,6 +5,7 @@
 - [x] Book FTP meeting with QA and PO. ➕ 2024-04-23 ✅ 2024-04-30
 - [ ] Update Wiki with ftp
 - [ ] Automation averaging of timing tests
+- [ ] 360's due 📅 2024-06-05 
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
