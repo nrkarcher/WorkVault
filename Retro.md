@@ -29,7 +29,11 @@ How do we address tickets that blow up like the wellzone ticket? What can we do?
 - It seems like the team was doing the right thing at the time. Maybe push a little harder? Keep an eye on scope creep.
 - All: Re-estimate stories that grow - keep the planned estimate and update the estimate field.
 Lucius - book meeting for coordinate system issue.
-
+10Duke - Issues with documentation. Bring in experts and stakeholders and have a separate meeting. - Milos to book.
+Automating build numbers - Milos to add as a Lolla project
+Rotating Critical Captain/Support Need Help person - Rotate every sprint 
+Project Investigation - Where do we post these?
+- 
 
 
 
