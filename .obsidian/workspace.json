@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retro.md",
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retro.md",
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retro.md"
+                "file": "Notes/Daily Notes/2024-05-21.md"
               }
             }
           },
@@ -212,8 +212,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -906,
-        "y": 639,
+        "x": -851,
+        "y": 630,
         "width": 826,
         "height": 850,
         "maximize": false,
@@ -221,7 +221,7 @@
       }
     ]
   },
-  "active": "0912d8d263a9fdad",
+  "active": "cfb148fd0f628fad",
   "lastOpenFiles": [
     "Retro.md",
     "Notes/Daily Notes/2024-05-21.md",
