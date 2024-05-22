@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md",
+                "file": "Retro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md",
+                "file": "Retro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md"
+                "file": "Retro.md"
               }
             }
           },
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +184,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfb148fd0f628fad",
+  "floating": {
+    "id": "b18aa156b7f8227c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e598e32e47d53460",
+        "type": "window",
+        "children": [
+          {
+            "id": "3c9bb7fdbb4df5be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0912d8d263a9fdad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Retro.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -985,
+        "y": 155,
+        "width": 826,
+        "height": 850,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0912d8d263a9fdad",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Task List.md",
+    "Retro.md",
     "Notes/Daily Notes/2024-05-21.md",
+    "Task List.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-05-14.md",
     "Notes/Daily Notes/2024-04-30.md",
     "Notes/Data Repository.md",
@@ -206,7 +244,6 @@
     "Notes/Daily Notes/2024-02-27.md",
     "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-02-28.md",
-    "Untitled.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-02-20.md",
     "Notes/Daily Notes/2024-02-13.md",
