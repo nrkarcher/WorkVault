@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-22.md",
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Notes/Daily Notes/2024-05-21.md"
               }
             }
           },
@@ -197,12 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03f6b1282816994a",
+  "active": "0912d8d263a9fdad",
   "lastOpenFiles": [
+    "Task List.md",
     "2024-05-22.md",
     "Notes/Daily Notes/2024-05-21.md",
     "Notes/Daily Notes/2024-05-14.md",
-    "Task List.md",
     "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-04-30.md",
     "Notes/Data Repository.md",
