@@ -3,7 +3,7 @@
 - [x] Book 10.8.3 Post-mortem ➕ 2024-02-21 ✅ 2024-05-13
 - [ ] 11.0 Release Plan
 - [x] Book FTP meeting with QA and PO. ➕ 2024-04-23 ✅ 2024-04-30
-- [ ] Update Wiki with ftp
+- [x] Update Wiki with ftp ✅ 2024-05-29
 - [ ] Automation averaging of timing tests
 - [ ] 360's due 📅 2024-06-05 
 # Archived

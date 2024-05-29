@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Signing.md"
+                "file": "Notes/Daily Notes/2024-05-29.md"
               }
             }
           },
@@ -186,6 +186,9 @@
   },
   "active": "cfb148fd0f628fad",
   "lastOpenFiles": [
+    "Notes/Signing.md",
+    "Notes/Daily Notes/2024-05-29.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-05-27.md",
     "Notes/Daily Notes/2024-05-21.md",
     "Home Notes/Home Notes.md",
@@ -195,11 +198,9 @@
     "Notes/LocalDB.md",
     "Notes/11.0 Upgrade.md",
     "Notes/Personal Development/1-on-1's.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-05-07.md",
     "Notes/Daily Notes/2024-04-30.md",
     "Notes/Data Repository.md",
-    "Notes/Signing.md",
     "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-04-23.md",
     "Notes/Daily Notes/2024-04-16.md",
@@ -211,7 +212,6 @@
     "Notes/Daily Notes/2024-03-12.md",
     "Notes/Daily Notes/2024-03-07.md",
     "Notes/Daily Notes/2024-02-27.md",
-    "Notes/Daily Notes/2024-02-28.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
