@@ -1,9 +1,5 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
-- [x] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07 ✅ 2024-05-13
-- [x] Book 10.8.3 Post-mortem ➕ 2024-02-21 ✅ 2024-05-13
 - [ ] 11.0 Release Plan
-- [x] Book FTP meeting with QA and PO. ➕ 2024-04-23 ✅ 2024-04-30
-- [x] Update Wiki with ftp ✅ 2024-05-29
 - [ ] Automation averaging of timing tests
 - [ ] 360's due 📅 2024-06-05 
 # Archived
@@ -33,3 +29,7 @@
 - [x] Clear Roach [[2024-01-08]] ✅ 2024-04-09 🔒 [[2024-04-09]] 🕸️ Task List
 - [x] Smoke test 10.8.3 with Mila ➕ 2024-04-09 ✅ 2024-04-16 🔒 [[2024-04-23]] 🕸️ Task List
 - [x] Talk to Amber about support downloads [[2024-02-13]] ✅ 2024-04-18 🔒 [[2024-04-23]] 🕸️ Task List
+- [x] Book FTP meeting with QA and PO. ➕ 2024-04-23 ✅ 2024-04-30 🔒 [[2024-05-30]] 🕸️ Task List
+- [x] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07 ✅ 2024-05-13 🔒 [[2024-05-30]] 🕸️ Task List
+- [x] Book 10.8.3 Post-mortem ➕ 2024-02-21 ✅ 2024-05-13 🔒 [[2024-05-30]] 🕸️ Task List
+- [x] Update Wiki with ftp ✅ 2024-05-29 🔒 [[2024-05-30]] 🕸️ Task List

@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "db515d41c86ce418",
+        "type": "tabs",
+        "dimension": 78.83625128733264,
+        "children": [
+          {
+            "id": "54db5ea1df6fce81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily Notes/2023-12-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "c3eb305f882bf5b9",
         "type": "tabs",
+        "dimension": 21.163748712667356,
         "children": [
           {
             "id": "03f6b1282816994a",
@@ -87,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-29.md",
+                "file": "Notes/Daily Notes/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-29.md",
+                "file": "Notes/Daily Notes/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-29.md"
+                "file": "Notes/Daily Notes/2023-12-19.md"
               }
             }
           },
@@ -164,48 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "8d8735c1ec452fd1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "361b65b11ad87fb0",
-        "type": "window",
-        "children": [
-          {
-            "id": "9c199f1565c7cac7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cfb148fd0f628fad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily Notes/2024-05-29.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -960,
-        "y": 116,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "cfb148fd0f628fad",
+  "active": "54db5ea1df6fce81",
   "lastOpenFiles": [
-    "Notes/Signing.md",
-    "Notes/Daily Notes/2024-05-29.md",
     "Task List.md",
+    "Notes/Daily Notes/2023-12-19.md",
+    "Notes/Daily Notes/2024-05-29.md",
+    "Notes/Signing.md",
     "Notes/Daily Notes/2024-05-27.md",
     "Notes/Daily Notes/2024-05-21.md",
     "Home Notes/Home Notes.md",
@@ -228,7 +212,6 @@
     "Notes/Daily Notes/2024-03-19.md",
     "Notes/Daily Notes/2024-03-12.md",
     "Notes/Daily Notes/2024-03-07.md",
-    "Notes/Daily Notes/2024-02-27.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
