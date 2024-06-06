@@ -67,6 +67,17 @@ Call people out and encourage engagement
 How do we make retros better?
 	- Find some ideas for how that can
 
+---
+June:
+
+Python - Ask Allen, see if he can help out.
+Pair program on the automated testing work with Mila.
+Identify skills chart items to work on
+	- New tools and technology.
+	- Drive innovation
+
+
+
 
 
 
