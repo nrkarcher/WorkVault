@@ -26,13 +26,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
-                "staged": true
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -52,21 +51,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4d27847c447eca63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Daily Notes/2024-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Daily Notes/2024-05-21.md"
+              }
             }
           },
           {
@@ -205,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0912d8d263a9fdad",
+  "active": "cfb148fd0f628fad",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-05-21.md",
     "conflict-files-obsidian-git.md",
