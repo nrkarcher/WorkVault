@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "d05923885e116be9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          },
+          {
             "id": "0912d8d263a9fdad",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -195,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfb148fd0f628fad",
+  "active": "d05923885e116be9",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-05-21.md",
     "conflict-files-obsidian-git.md",
