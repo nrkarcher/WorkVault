@@ -14,35 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md",
+                "file": "Notes/Daily Notes/2024-06-11.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d05923885e116be9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
-          },
-          {
-            "id": "0912d8d263a9fdad",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -129,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md",
+                "file": "Notes/Daily Notes/2024-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md",
+                "file": "Notes/Daily Notes/2024-06-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-05-21.md"
+                "file": "Notes/Daily Notes/2024-06-11.md"
               }
             }
           },
@@ -206,11 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d05923885e116be9",
+  "active": "22a27cb3d4052faa",
   "lastOpenFiles": [
+    "Task List.md",
+    "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-05-21.md",
     "conflict-files-obsidian-git.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-05-29.md",
     "Notes/Daily Notes/2024-05-27.md",
     "2024-05-22.md",
@@ -233,7 +212,6 @@
     "Notes/Daily Notes/2024-02-28.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-02-20.md",
-    "Notes/Daily Notes/2024-02-13.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
