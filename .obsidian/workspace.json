@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -164,47 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "f2e557b1e8bc6449",
-    "type": "floating",
-    "children": [
-      {
-        "id": "69b1353f84c5366e",
-        "type": "window",
-        "children": [
-          {
-            "id": "fb3954002771f40f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "54db5ea1df6fce81",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily Notes/2024-06-12.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -953,
-        "y": 154,
-        "width": 640,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "54db5ea1df6fce81",
+  "active": "03f6b1282816994a",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-06-12.md",
+    "Task List.md",
     "Pasted image 20240612094419.png",
     "Notes/Daily Notes/2024-06-11.md",
     "Notes/Personal Development/1-on-1's.md",
