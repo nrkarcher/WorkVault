@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b7653e0958779e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -184,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22a27cb3d4052faa",
+  "active": "0b7653e0958779e2",
   "lastOpenFiles": [
     "Task List.md",
     "Notes/Daily Notes/2024-06-11.md",
