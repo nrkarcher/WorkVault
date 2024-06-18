@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-17.md",
+                "file": "Notes/Signing.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-17.md",
+                "file": "Notes/Signing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-17.md",
+                "file": "Notes/Signing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-17.md"
+                "file": "Notes/Signing.md"
               }
             }
           },
@@ -199,6 +199,7 @@
   },
   "active": "210b03dcea4e4d6b",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-06-17.md",
     "Notes/Daily Notes/2024-06-12.md",
@@ -225,7 +226,6 @@
     "Notes/Daily Notes/2024-04-23.md",
     "Notes/Daily Notes/2024-04-16.md",
     "Notes/Daily Notes/2024-04-10.md",
-    "Notes/Daily Notes/2024-04-09.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
