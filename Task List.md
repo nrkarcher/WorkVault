@@ -1,7 +1,6 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] 11.0 Release Plan
 - [ ] Automation averaging of timing tests
-- [ ] 360's due 📅 2024-06-05 
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
@@ -33,3 +32,4 @@
 - [x] Discuss integration branch further in Bug Busters Planning ➕ 2024-02-07 ✅ 2024-05-13 🔒 [[2024-05-30]] 🕸️ Task List
 - [x] Book 10.8.3 Post-mortem ➕ 2024-02-21 ✅ 2024-05-13 🔒 [[2024-05-30]] 🕸️ Task List
 - [x] Update Wiki with ftp ✅ 2024-05-29 🔒 [[2024-05-30]] 🕸️ Task List
+- [x] 360's due 📅 2024-06-05 ✅ 2024-06-12 🔒 [[2024-06-12]] 🕸️ Task List
