@@ -57,10 +57,11 @@
             "id": "8b0d425f89cd8cea",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Notes/Daily Notes/2024-06-12.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Daily Notes/2024-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Daily Notes/2024-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Daily Notes/2024-06-12.md"
+              }
             }
           },
           {
@@ -209,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,9 +232,9 @@
   },
   "active": "8b0d425f89cd8cea",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-17.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-06-11.md",
     "Task List.md",
     "Notes/Daily Notes/2024-06-12.md",
