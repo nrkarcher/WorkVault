@@ -36,37 +36,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78ae9c0c96e442d8",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "8b0d425f89cd8cea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md",
+                "file": "Notes/Daily Notes/2024-06-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -153,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md",
+                "file": "Notes/Daily Notes/2024-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md",
+                "file": "Notes/Daily Notes/2024-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md"
+                "file": "Notes/Daily Notes/2024-06-18.md"
               }
             }
           },
@@ -230,14 +207,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b0d425f89cd8cea",
+  "active": "b220a52ac9674016",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-06-11.md",
+    "Notes/Daily Notes/2024-06-12.md",
     "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-17.md",
     "conflict-files-obsidian-git.md",
-    "Notes/Daily Notes/2024-06-11.md",
     "Task List.md",
-    "Notes/Daily Notes/2024-06-12.md",
     "Notes/Daily Notes/2024-05-22.md",
     "Home Notes/Book Reviews.md",
     "Notes/Daily Notes/2024-05-21.md",
