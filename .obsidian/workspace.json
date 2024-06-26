@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md",
+                "file": "Notes/Personal Development/SDK Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md",
+                "file": "Notes/Personal Development/SDK Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md",
+                "file": "Notes/Personal Development/SDK Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-06-12.md"
+                "file": "Notes/Personal Development/SDK Testing.md"
               }
             }
           },
@@ -209,9 +209,10 @@
   },
   "active": "b220a52ac9674016",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-06-12.md",
+    "Notes/Personal Development/SDK Testing.md",
     "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-11.md",
-    "Notes/Daily Notes/2024-06-12.md",
     "Notes/Daily Notes/2024-06-17.md",
     "conflict-files-obsidian-git.md",
     "Task List.md",
@@ -234,7 +235,6 @@
     "Notes/Daily Notes/2024-03-20.md",
     "Notes/Daily Notes/2024-03-19.md",
     "Notes/Daily Notes/2024-03-12.md",
-    "Notes/Daily Notes/2024-03-07.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
