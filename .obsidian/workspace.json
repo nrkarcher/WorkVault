@@ -21,39 +21,19 @@
             }
           },
           {
-            "id": "0b7653e0958779e2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "b220a52ac9674016",
+            "id": "f38e7b2e7d623de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Development/SDK Testing.md",
+                "file": "Notes/Daily Notes/2024-07-02.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f38e7b2e7d623de3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -140,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Personal Development/SDK Testing.md",
+                "file": "Notes/Daily Notes/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Personal Development/SDK Testing.md",
+                "file": "Notes/Daily Notes/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Personal Development/SDK Testing.md"
+                "file": "Notes/Daily Notes/2024-07-02.md"
               }
             }
           },
@@ -201,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -217,14 +197,53 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "fe3041fe192dddfe",
+    "type": "floating",
+    "children": [
+      {
+        "id": "91bbf151f199dd5f",
+        "type": "window",
+        "children": [
+          {
+            "id": "528e8774ea82d60b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c4cd20d44e0c8217",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily Notes/2024-07-02.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1080,
+        "y": 0,
+        "width": 1080,
+        "height": 936,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "f38e7b2e7d623de3",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-06-11.md",
+    "Notes/Daily Notes/2024-07-02.md",
+    "conflict-files-obsidian-git.md",
+    "Notes/SDK Testing.md",
     "Notes/Daily Notes/2024-06-12.md",
     "Notes/Personal Development/SDK Testing.md",
     "Notes/Daily Notes/2024-06-18.md",
-    "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-06-17.md",
-    "conflict-files-obsidian-git.md",
     "Task List.md",
     "Notes/Daily Notes/2024-05-22.md",
     "Home Notes/Book Reviews.md",
@@ -243,8 +262,6 @@
     "Notes/Daily Notes/2024-04-09.md",
     "Notes/Daily Notes/2024-03-26.md",
     "Notes/Daily Notes/2024-03-20.md",
-    "Notes/Daily Notes/2024-03-19.md",
-    "Notes/Daily Notes/2024-03-12.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
