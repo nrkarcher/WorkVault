@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-03.md",
+                "file": "Notes/Daily Notes/2024-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-03.md",
+                "file": "Notes/Daily Notes/2024-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-03.md"
+                "file": "Notes/Daily Notes/2024-06-12.md"
               }
             }
           },
@@ -177,48 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "fe3041fe192dddfe",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f7d46cc5610ab048",
-        "type": "window",
-        "children": [
-          {
-            "id": "b931540c1fc529dc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e8265ac9ee462dbc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily Notes/2024-07-03.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1061,
-        "y": 492,
-        "width": 983,
-        "height": 767,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e8265ac9ee462dbc",
+  "active": "bf6b0bd2cbe8414f",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-07-03.md",
     "Notes/Daily Notes/2024-06-12.md",
     "Task List.md",
-    "Notes/Daily Notes/2024-07-03.md",
     "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-07-02.md",
     "conflict-files-obsidian-git.md",
