@@ -6,6 +6,39 @@
       {
         "id": "c3eb305f882bf5b9",
         "type": "tabs",
+        "dimension": 76.82801235839341,
+        "children": [
+          {
+            "id": "b5c10dbedf575f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Onboarding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "210b03dcea4e4d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/SDK Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1be90413b79995f5",
+        "type": "tabs",
+        "dimension": 23.17198764160659,
         "children": [
           {
             "id": "03f6b1282816994a",
@@ -20,21 +53,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "bf6b0bd2cbe8414f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily Notes/2024-07-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-03.md",
+                "file": "Notes/SDK Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-03.md",
+                "file": "Notes/SDK Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-03.md"
+                "file": "Notes/SDK Testing.md"
               }
             }
           },
@@ -165,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,34 +197,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf6b0bd2cbe8414f",
+  "active": "210b03dcea4e4d6b",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-06-12.md",
-    "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-07-03.md",
-    "Task List.md",
-    "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-07-02.md",
-    "conflict-files-obsidian-git.md",
+    "Notes/Signing.md",
     "Notes/SDK Testing.md",
-    "Notes/Personal Development/SDK Testing.md",
+    "Notes/Daily Notes/2024-06-18.md",
+    "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-06-17.md",
+    "Notes/Daily Notes/2024-06-12.md",
+    "Notes/Performance Discussion.md",
+    "Notes/Onboarding.md",
+    "Notes/SeisWare Nations.md",
     "Notes/Daily Notes/2024-05-22.md",
     "Home Notes/Book Reviews.md",
-    "Notes/Daily Notes/2024-05-21.md",
+    "Pasted image 20240612094419.png",
+    "Task List.md",
+    "Notes/Personal Development/1-on-1's.md",
+    "Notes/Daily Notes/2023-12-19.md",
     "Notes/Daily Notes/2024-05-29.md",
     "Notes/Daily Notes/2024-05-27.md",
-    "2024-05-22.md",
+    "Notes/Daily Notes/2024-05-21.md",
     "Notes/Daily Notes/2024-05-14.md",
+    "Notes/LocalDB.md",
+    "Notes/11.0 Upgrade.md",
+    "Notes/Daily Notes/2024-05-07.md",
     "Notes/Daily Notes/2024-04-30.md",
     "Notes/Data Repository.md",
-    "Notes/Signing.md",
-    "Notes/LocalDB.md",
-    "Notes/Daily Notes/2024-04-23.md",
-    "Notes/Daily Notes/2024-04-16.md",
-    "Notes/Daily Notes/2024-04-10.md",
-    "Notes/Daily Notes/2024-04-09.md",
-    "Notes/Daily Notes/2024-03-26.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
