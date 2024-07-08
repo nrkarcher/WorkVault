@@ -3,7 +3,7 @@ TestApp - Make sure that this is working and can be run.
 FDT standalone has toolkit crud.
 We only need to be testing the C# presenters
 C# Apps:
-- Bulk shift
+- Bulk shift - 
 - cache clean
 - coordinate util
 - crossplot
@@ -13,8 +13,8 @@ C# Apps:
 - export locations
 - fault transfer
 - fault triangulate
-- filter manager
-	- All filter types
+- filter manager -
+	- All filter types -
 - Grid clear
 - grid despike
 - grid merge
@@ -24,12 +24,12 @@ C# Apps:
 - horizon smooth
 - horizons transfer
 - Inter well picks
-- Log editor
+- Log editor -
 - 2d modelling
-- horizon pick
+- horizon/fault pick -
 - T/D conversion
 - Velocity Model props
 - Volumetric calc
 - old well/grid - deprecated
-- well planning
+- well planning -
 - working set
