@@ -5,11 +5,11 @@ We only need to be testing the C# presenters
 C# Apps:
 - Bulk shift - 
 - cache clean
-- coordinate util
+- coordinate util -
 - crossplot -
 - merge cultures -
 - Depth conversion -
-- display tops
+- display tops -
 - export locations -
 - fault transfer -
 - fault triangulate -
