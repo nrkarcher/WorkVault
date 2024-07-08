@@ -7,29 +7,29 @@ C# Apps:
 - cache clean
 - coordinate util
 - crossplot
-- merge cultures
+- merge cultures -
 - Depth conversion
 - display tops
-- export locations
-- fault transfer
-- fault triangulate
+- export locations -
+- fault transfer -
+- fault triangulate -
 - filter manager -
 	- All filter types -
-- Grid clear
-- grid despike
-- grid merge
-- grid smooth
-- horizon brick
-- horizon clear/despike
-- horizon smooth
-- horizons transfer
+- Grid clear -
+- grid despike -
+- grid merge -
+- grid smooth -
+- horizon brick -
+- horizon clear/despike -
+- horizon smooth -
+- horizons transfer -
 - Inter well picks
 - Log editor -
 - 2d modelling
 - horizon/fault pick -
-- T/D conversion
-- Velocity Model props
+- T/D conversion -
+- Velocity Model props -
 - Volumetric calc
 - old well/grid - deprecated
 - well planning -
-- working set
+- working set -
