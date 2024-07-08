@@ -6,9 +6,9 @@ C# Apps:
 - Bulk shift - 
 - cache clean
 - coordinate util
-- crossplot
+- crossplot -
 - merge cultures -
-- Depth conversion
+- Depth conversion -
 - display tops
 - export locations -
 - fault transfer -
@@ -23,7 +23,7 @@ C# Apps:
 - horizon clear/despike -
 - horizon smooth -
 - horizons transfer -
-- Inter well picks
+- Inter well picks -
 - Log editor -
 - 2d modelling
 - horizon/fault pick -
