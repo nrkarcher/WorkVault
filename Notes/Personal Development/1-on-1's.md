@@ -85,3 +85,5 @@ Non-obvious observations.
 Comments in each section at minimum
 Conflict and confrontation are outside of my comfort zone, holding others accountable.
 Refuse the suckers choice and make it safe.
+Feedback for others can be positive.
+Hold others accountable.
