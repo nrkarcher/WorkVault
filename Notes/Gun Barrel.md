@@ -3,5 +3,6 @@ Should you be able to turn off a well on the map and then have the updated list 
 Being able to color and differentiate between things in the GB is important.
 Export to png with the background removed.
 Adding in annotations? Meh, kinda.
-Be able to change the symbols.
-
+Be able to change the symbols of well bores
+We will need to have vertical wells.
+Be able to have templates that can be exported and imported.
