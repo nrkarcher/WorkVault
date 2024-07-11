@@ -6,3 +6,4 @@ Adding in annotations? Meh, kinda.
 Be able to change the symbols of well bores
 We will need to have vertical wells.
 Be able to have templates that can be exported and imported.
+We should be able to see all the wells and allow the user to set a threshold for the dip variance in the well.
