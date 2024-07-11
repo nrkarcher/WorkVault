@@ -82,4 +82,5 @@ July:
 360's provide additional context and content for responses.
 Try to tell the person something that they don't already know. 
 Non-obvious observations.
+Comments in each section at minimum
 
