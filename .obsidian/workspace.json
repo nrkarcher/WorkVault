@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SDK Testing.md",
+                "file": "Notes/Gun Barrel.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SDK Testing.md",
+                "file": "Notes/Gun Barrel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SDK Testing.md",
+                "file": "Notes/Gun Barrel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SDK Testing.md"
+                "file": "Notes/Gun Barrel.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   "active": "bf6b0bd2cbe8414f",
   "lastOpenFiles": [
     "Notes/SDK Testing.md",
+    "Notes/Gun Barrel.md",
     "Notes/Daily Notes/2024-07-03.md",
     "Notes/Daily Notes/2024-06-12.md",
     "Notes/Daily Notes/2024-06-18.md",
@@ -204,7 +205,6 @@
     "Notes/Daily Notes/2024-04-16.md",
     "Notes/Daily Notes/2024-04-10.md",
     "Notes/Daily Notes/2024-04-09.md",
-    "Notes/Daily Notes/2024-03-26.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
