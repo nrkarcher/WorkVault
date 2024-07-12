@@ -1,5 +1,5 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
-- [ ] 11.0 Release Plan
+- [x] 11.0 Release Plan ✅ 2024-07-11
 - [ ] Automation averaging of timing tests
 # Archived
 

@@ -76,9 +76,16 @@ Identify skills chart items to work on
 	- New tools and technology.
 	- Drive innovation
 
+---
 
-
-
-
-
+July:
+360's provide additional context and content for responses.
+Try to tell the person something that they don't already know. 
+Non-obvious observations.
+Comments in each section at minimum
+Conflict and confrontation are outside of my comfort zone, holding others accountable.
+Refuse the suckers choice and make it safe.
+Feedback for others can be positive.
+Hold others accountable. (scrum, retro, etc.)
+Use your list
 
