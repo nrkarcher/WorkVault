@@ -25,7 +25,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": "conflict-files-obsidian-git.md",
                 "staged": false
               }
             }
@@ -191,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e995a9ccaa960e24",
+  "active": "22a27cb3d4052faa",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Notes/Gun Barrel.md",
