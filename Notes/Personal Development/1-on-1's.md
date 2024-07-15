@@ -87,5 +87,5 @@ Conflict and confrontation are outside of my comfort zone, holding others accoun
 Refuse the suckers choice and make it safe.
 Feedback for others can be positive.
 Hold others accountable. (scrum, retro, etc.)
-Use your list
+Use your task list
 
