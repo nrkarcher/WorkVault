@@ -4,39 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c3eb305f882bf5b9",
+        "id": "2ac62e5b27c32984",
         "type": "tabs",
-        "dimension": 62.37458193979933,
+        "dimension": 67.74193548387096,
         "children": [
           {
-            "id": "b5c10dbedf575f87",
+            "id": "fa49b7ef1c9342d7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "e995a9ccaa960e24",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "Notes/Internal Quality Survey.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1be90413b79995f5",
         "type": "tabs",
-        "dimension": 37.62541806020067,
+        "dimension": 32.25806451612903,
         "children": [
           {
             "id": "03f6b1282816994a",
@@ -118,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Internal Quality Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Internal Quality Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Internal Quality Survey.md"
+              }
             }
           },
           {
@@ -175,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -191,10 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22a27cb3d4052faa",
+  "active": "302b52db8447604f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Notes/Gun Barrel.md",
+    "Task List.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-07-10.md",
     "Notes/SDK Testing.md",
@@ -211,7 +205,6 @@
     "Notes/Daily Notes/2024-05-22.md",
     "Home Notes/Book Reviews.md",
     "Pasted image 20240612094419.png",
-    "Task List.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2023-12-19.md",
     "Notes/Daily Notes/2024-05-29.md",

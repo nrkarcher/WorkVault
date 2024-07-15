@@ -1,6 +1,7 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
-- [x] 11.0 Release Plan ✅ 2024-07-11
 - [ ] Automation averaging of timing tests
+- [ ] Get Amber to add a ticket for Measurement users and roles
+- [ ] 
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
@@ -33,3 +34,4 @@
 - [x] Book 10.8.3 Post-mortem ➕ 2024-02-21 ✅ 2024-05-13 🔒 [[2024-05-30]] 🕸️ Task List
 - [x] Update Wiki with ftp ✅ 2024-05-29 🔒 [[2024-05-30]] 🕸️ Task List
 - [x] 360's due 📅 2024-06-05 ✅ 2024-06-12 🔒 [[2024-06-12]] 🕸️ Task List
+- [x] 11.0 Release Plan ✅ 2024-07-11 🔒 [[2024-07-15]] 🕸️ Task List
