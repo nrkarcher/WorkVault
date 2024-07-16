@@ -168,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa49b7ef1c9342d7",
+  "active": "22a27cb3d4052faa",
   "lastOpenFiles": [
     "Task List.md",
     "Notes/Daily Notes/2024-07-15.md",
