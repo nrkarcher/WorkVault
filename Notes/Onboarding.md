@@ -19,3 +19,7 @@ Issues:
 - Synthetics could be explained better
 - 
 
+---
+Hiring
+
+Potentially bring in Cole.

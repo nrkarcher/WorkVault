@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-15.md",
+                "file": "Notes/Onboarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-15.md",
+                "file": "Notes/Onboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-15.md",
+                "file": "Notes/Onboarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-15.md"
+                "file": "Notes/Onboarding.md"
               }
             }
           },
@@ -184,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22a27cb3d4052faa",
+  "active": "fa49b7ef1c9342d7",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-07-15.md",
+    "Task List.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Internal Quality Survey.md",
     "Notes/Gun Barrel.md",
