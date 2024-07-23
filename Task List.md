@@ -1,9 +1,10 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
-- [ ] Get Amber to add a ticket for Measurement users and roles
+- [x] Get Amber to add a ticket for Measurement users and roles ✅ 2024-07-23
 - [ ] Roach S000040841
 - [ ] Roach S000040840
 - [ ] Test Plan for Gun Barrel Viewer ➕ 2024-07-23
+- [ ] Check with SDK team over test plan
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
