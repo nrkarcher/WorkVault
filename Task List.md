@@ -3,6 +3,7 @@
 - [ ] Get Amber to add a ticket for Measurement users and roles
 - [ ] Roach S000040841
 - [ ] Roach S000040840
+- [ ] Test Plan for Gun Barrel Viewer ➕ 2024-07-23
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Daily Notes/2024-07-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Daily Notes/2024-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Onboarding.md",
+                "file": "Notes/Daily Notes/2024-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Onboarding.md"
+                "file": "Notes/Daily Notes/2024-07-23.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,13 +186,14 @@
   },
   "active": "fa49b7ef1c9342d7",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-07-15.md",
     "Task List.md",
+    "Notes/Daily Notes/2024-07-23.md",
+    "Notes/Onboarding.md",
+    "Notes/Daily Notes/2024-07-15.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Internal Quality Survey.md",
     "Notes/Gun Barrel.md",
     "conflict-files-obsidian-git.md",
-    "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-07-10.md",
     "Notes/SDK Testing.md",
     "Notes/Daily Notes/2024-07-08.md",
@@ -212,7 +213,6 @@
     "Notes/Daily Notes/2024-05-29.md",
     "Notes/Daily Notes/2024-05-27.md",
     "Notes/Daily Notes/2024-05-21.md",
-    "Notes/Daily Notes/2024-05-14.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
