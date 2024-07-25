@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c3eb305f882bf5b9",
+        "id": "2ac62e5b27c32984",
         "type": "tabs",
+        "dimension": 67.74193548387096,
+        "children": [
+          {
+            "id": "fa49b7ef1c9342d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily Notes/2024-07-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1be90413b79995f5",
+        "type": "tabs",
+        "dimension": 32.25806451612903,
         "children": [
           {
             "id": "03f6b1282816994a",
@@ -87,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Notes/Daily Notes/2024-07-23.md"
               }
             }
           },
@@ -152,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,34 +184,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "302b52db8447604f",
+  "active": "fa49b7ef1c9342d7",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-07-24.md",
     "Task List.md",
     "Notes/Daily Notes/2024-07-23.md",
+    "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-07-15.md",
-    "Notes/Daily Notes/2024-07-10.md",
-    "Notes/Daily Notes/2024-07-08.md",
     "Notes/Personal Development/1-on-1's.md",
-    "Notes/11.0 Upgrade.md",
+    "Notes/Internal Quality Survey.md",
     "Notes/Gun Barrel.md",
+    "conflict-files-obsidian-git.md",
+    "Notes/Daily Notes/2024-07-10.md",
     "Notes/SDK Testing.md",
+    "Notes/Daily Notes/2024-07-08.md",
     "Notes/Daily Notes/2024-07-03.md",
-    "Notes/Daily Notes/2024-06-12.md",
+    "Notes/Daily Notes/2024-07-02.md",
+    "Notes/Signing.md",
     "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-11.md",
-    "Notes/Daily Notes/2024-07-02.md",
-    "conflict-files-obsidian-git.md",
-    "Notes/Personal Development/SDK Testing.md",
     "Notes/Daily Notes/2024-06-17.md",
+    "Notes/Daily Notes/2024-06-12.md",
+    "Notes/Performance Discussion.md",
+    "Notes/SeisWare Nations.md",
     "Notes/Daily Notes/2024-05-22.md",
     "Home Notes/Book Reviews.md",
-    "Notes/Daily Notes/2024-05-21.md",
+    "Pasted image 20240612094419.png",
+    "Notes/Daily Notes/2023-12-19.md",
     "Notes/Daily Notes/2024-05-29.md",
     "Notes/Daily Notes/2024-05-27.md",
-    "2024-05-22.md",
-    "Notes/Daily Notes/2024-05-14.md",
-    "Notes/Daily Notes/2024-04-30.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
