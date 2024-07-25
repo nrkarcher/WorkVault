@@ -5,7 +5,7 @@
 - [x] Roach S000040840 ✅ 2024-07-24
 - [ ] Test Plan for Gun Barrel Viewer ➕ 2024-07-23
 - [ ] Check with SDK team over test plan
-- [ ] Discuss custyomer impact and rs dif
+- [ ] Discuss customer impact and res dif
 - [ ] Monthly res difficult meetings
 # Archived
 
