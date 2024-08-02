@@ -14,24 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-23.md",
+                "file": "Notes/Daily Notes/2024-08-02.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3cc1103a4ec2ae9f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1be90413b79995f5",
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-23.md",
+                "file": "Notes/Daily Notes/2024-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-23.md",
+                "file": "Notes/Daily Notes/2024-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-07-23.md"
+                "file": "Notes/Daily Notes/2024-08-02.md"
               }
             }
           },
@@ -195,17 +184,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cc1103a4ec2ae9f",
+  "active": "302b52db8447604f",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-07-24.md",
     "Task List.md",
+    "Notes/Daily Notes/2024-08-02.md",
+    "conflict-files-obsidian-git.md",
+    "Home Notes/Book Reviews.md",
     "Notes/Daily Notes/2024-07-23.md",
+    "Notes/Daily Notes/2024-07-24.md",
     "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-07-15.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Internal Quality Survey.md",
     "Notes/Gun Barrel.md",
-    "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-07-10.md",
     "Notes/SDK Testing.md",
     "Notes/Daily Notes/2024-07-08.md",
@@ -219,11 +210,9 @@
     "Notes/Performance Discussion.md",
     "Notes/SeisWare Nations.md",
     "Notes/Daily Notes/2024-05-22.md",
-    "Home Notes/Book Reviews.md",
     "Pasted image 20240612094419.png",
     "Notes/Daily Notes/2023-12-19.md",
     "Notes/Daily Notes/2024-05-29.md",
-    "Notes/Daily Notes/2024-05-27.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",

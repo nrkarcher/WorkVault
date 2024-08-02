@@ -1,10 +1,9 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
-- [x] Get Amber to add a ticket for Measurement users and roles ✅ 2024-07-23
-- [x] Roach S000040841 ✅ 2024-07-24
-- [x] Roach S000040840 ✅ 2024-07-24
 - [ ] Test Plan for Gun Barrel Viewer ➕ 2024-07-23
 - [ ] Check with SDK team over test plan
+- [ ] Discuss customer impact and res dif
+- [ ] Monthly res difficult meetings
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
@@ -38,3 +37,6 @@
 - [x] Update Wiki with ftp ✅ 2024-05-29 🔒 [[2024-05-30]] 🕸️ Task List
 - [x] 360's due 📅 2024-06-05 ✅ 2024-06-12 🔒 [[2024-06-12]] 🕸️ Task List
 - [x] 11.0 Release Plan ✅ 2024-07-11 🔒 [[2024-07-15]] 🕸️ Task List
+- [x] Get Amber to add a ticket for Measurement users and roles ✅ 2024-07-23 🔒 [[2024-07-25]] 🕸️ Task List
+- [x] Roach S000040841 ✅ 2024-07-24 🔒 [[2024-07-25]] 🕸️ Task List
+- [x] Roach S000040840 ✅ 2024-07-24 🔒 [[2024-07-25]] 🕸️ Task List
