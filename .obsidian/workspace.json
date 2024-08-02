@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cc1103a4ec2ae9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1be90413b79995f5",
@@ -184,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa49b7ef1c9342d7",
+  "active": "3cc1103a4ec2ae9f",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-07-24.md",
     "Task List.md",
