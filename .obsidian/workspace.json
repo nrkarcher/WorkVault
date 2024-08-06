@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-02.md",
+                "file": "Notes/Daily Notes/2024-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-02.md",
+                "file": "Notes/Daily Notes/2024-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-02.md",
+                "file": "Notes/Daily Notes/2024-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-02.md"
+                "file": "Notes/Daily Notes/2024-08-06.md"
               }
             }
           },
@@ -184,9 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "302b52db8447604f",
+  "active": "fa49b7ef1c9342d7",
   "lastOpenFiles": [
     "Task List.md",
+    "Notes/Daily Notes/2024-08-06.md",
     "Notes/Daily Notes/2024-08-02.md",
     "conflict-files-obsidian-git.md",
     "Home Notes/Book Reviews.md",
@@ -212,7 +213,6 @@
     "Notes/Daily Notes/2024-05-22.md",
     "Pasted image 20240612094419.png",
     "Notes/Daily Notes/2023-12-19.md",
-    "Notes/Daily Notes/2024-05-29.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
