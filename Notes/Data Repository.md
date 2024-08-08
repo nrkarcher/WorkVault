@@ -16,4 +16,3 @@ Fix up clean projects.
 
 
 If anyone adds data to the directory they should have to add that information into the spreadsheet.
-
