@@ -31,20 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8cddc9469d37a9fa",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -204,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cddc9469d37a9fa",
+  "active": "22a27cb3d4052faa",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Notes/Performance Discussion.md",
