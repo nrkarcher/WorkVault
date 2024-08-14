@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-14.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-14.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-14.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -184,47 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "03ece06bd99157ea",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b723b33a6d347bf3",
-        "type": "window",
-        "children": [
-          {
-            "id": "62835a8c9817e9fd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5c38278eea1f6c1b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily Notes/2024-08-14.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -959,
-        "y": 567,
-        "width": 753,
-        "height": 590,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5c38278eea1f6c1b",
+  "active": "03f6b1282816994a",
   "lastOpenFiles": [
-    "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-08-14.md",
+    "Notes/Performance Discussion.md",
     "conflict-files-obsidian-git.md",
     "Task List.md",
     "Notes/Daily Notes/2024-08-13.md",
