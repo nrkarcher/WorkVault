@@ -19,8 +19,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c38278eea1f6c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Performance Discussion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cddc9469d37a9fa",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -107,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Daily Notes/2024-08-06.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,11 +188,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +204,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58408878a54f3f9",
+  "active": "8cddc9469d37a9fa",
   "lastOpenFiles": [
-    "Notes/Data Repository.md",
+    "conflict-files-obsidian-git.md",
+    "Notes/Performance Discussion.md",
     "Task List.md",
+    "Notes/Daily Notes/2024-08-13.md",
     "Notes/Daily Notes/2024-08-06.md",
+    "Notes/Data Repository.md",
     "Notes/Daily Notes/2024-08-02.md",
     "Notes/Daily Notes/2024-07-24.md",
     "Notes/Daily Notes/2024-07-23.md",
@@ -204,14 +227,11 @@
     "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-07-02.md",
-    "conflict-files-obsidian-git.md",
     "Notes/Personal Development/SDK Testing.md",
     "Notes/Daily Notes/2024-06-17.md",
     "Notes/Daily Notes/2024-05-22.md",
     "Home Notes/Book Reviews.md",
     "Notes/Daily Notes/2024-05-21.md",
-    "Notes/Daily Notes/2024-05-29.md",
-    "Notes/Daily Notes/2024-05-27.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",

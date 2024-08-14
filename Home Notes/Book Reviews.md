@@ -6,3 +6,8 @@ This was my pick for book club, I saw it on a list of new science fiction novels
 A Psalm for the Wild Built by Becky Chambers
 This book is hard to review, it feels like the first chapter of a book. I kept waiting for something to happen but this isn't that kind of book. It feels very cozy and pleasant as we follow a tea monk as they travel around listening to peoples problems and giving them tea, while also dealing with their own internal conflict, and then they meet a robot and have a chat. That's pretty much the whole story. The conversations are interesting and the solarpunk environment is a different take that I haven't seen a lot of before but I felt like there just could have been more.
 2.5/5
+
+Piranesi by Susanna Clarke
+
+Piranesi by Susanna Clarke follows the story of Piranesi, our narrator, as he explores the mostly empty labyrinth that he lives in. With no memory of the world outside of the labyrinth he is viewing this world through new eyes. This gives the reading an interesting perspective but can at times be a little annoying when he goes into detail. It seems like there is more to the story than what we are given. The how's and why's of the big reveal are mostly waved away and left me wondering about the mechanics of the world that the book takes place in. Overall, I found it to be a comfortable book to read, the setting seemed interesting but there could have been more.
+3.5/5
