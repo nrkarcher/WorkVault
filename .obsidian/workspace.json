@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-06.md",
+                "file": "Notes/Daily Notes/2024-08-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Notes/Daily Notes/2024-08-19.md"
               }
             }
           },
@@ -184,12 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03f6b1282816994a",
+  "active": "f58408878a54f3f9",
   "lastOpenFiles": [
+    "Task List.md",
+    "Notes/Daily Notes/2024-08-19.md",
     "Notes/Daily Notes/2024-08-14.md",
     "Notes/Performance Discussion.md",
     "conflict-files-obsidian-git.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-08-13.md",
     "Notes/Daily Notes/2024-08-06.md",
     "Notes/Data Repository.md",
@@ -211,7 +212,6 @@
     "Notes/Personal Development/SDK Testing.md",
     "Notes/Daily Notes/2024-06-17.md",
     "Notes/Daily Notes/2024-05-22.md",
-    "Home Notes/Book Reviews.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
