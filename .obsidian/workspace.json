@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-19.md",
+                "file": "Home Notes/Book Reviews.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-19.md",
+                "file": "Home Notes/Book Reviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-19.md",
+                "file": "Home Notes/Book Reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-19.md"
+                "file": "Home Notes/Book Reviews.md"
               }
             }
           },
@@ -168,11 +168,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +186,13 @@
   },
   "active": "f58408878a54f3f9",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-08-19.md",
     "Notes/Daily Notes/2024-08-14.md",
-    "Notes/Performance Discussion.md",
-    "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-08-13.md",
-    "Notes/Daily Notes/2024-08-06.md",
+    "Task List.md",
+    "Home Notes/Book Reviews.md",
     "Notes/Data Repository.md",
+    "Notes/Daily Notes/2024-08-06.md",
     "Notes/Daily Notes/2024-08-02.md",
     "Notes/Daily Notes/2024-07-24.md",
     "Notes/Daily Notes/2024-07-23.md",
@@ -209,6 +208,7 @@
     "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-07-02.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Personal Development/SDK Testing.md",
     "Notes/Daily Notes/2024-06-17.md",
     "Notes/Daily Notes/2024-05-22.md",
