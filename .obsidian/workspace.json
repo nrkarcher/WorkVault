@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Daily Notes/2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Notes/Daily Notes/2024-09-03.md"
               }
             }
           },
@@ -184,11 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03f6b1282816994a",
+  "active": "f58408878a54f3f9",
   "lastOpenFiles": [
+    "Task List.md",
     "Notes/Daily Notes/2024-09-03.md",
     "Notes/Onboarding.md",
-    "Task List.md",
     "Home Notes/Book Reviews.md",
     "Notes/Daily Notes/2024-08-19.md",
     "Notes/Daily Notes/2024-08-14.md",
