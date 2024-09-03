@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Notes/Book Reviews.md",
+                "file": "Notes/Daily Notes/2024-09-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Notes/Book Reviews.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Notes/Book Reviews.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Notes/Book Reviews.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,13 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58408878a54f3f9",
+  "active": "03f6b1282816994a",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2024-09-03.md",
+    "Notes/Onboarding.md",
+    "Task List.md",
+    "Home Notes/Book Reviews.md",
     "Notes/Daily Notes/2024-08-19.md",
     "Notes/Daily Notes/2024-08-14.md",
     "Notes/Daily Notes/2024-08-13.md",
-    "Task List.md",
-    "Home Notes/Book Reviews.md",
     "Notes/Data Repository.md",
     "Notes/Daily Notes/2024-08-06.md",
     "Notes/Daily Notes/2024-08-02.md",
@@ -210,8 +212,6 @@
     "Notes/Daily Notes/2024-07-02.md",
     "conflict-files-obsidian-git.md",
     "Notes/Personal Development/SDK Testing.md",
-    "Notes/Daily Notes/2024-06-17.md",
-    "Notes/Daily Notes/2024-05-22.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",

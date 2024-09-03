@@ -1,11 +1,11 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
 - [ ] Test Plan for Gun Barrel Viewer ➕ 2024-07-23
-- [ ] Check with SDK team over test plan
-- [ ] Discuss customer impact and res dif
+- [x] Check with SDK team over test plan ✅ 2024-09-03
+- [x] Discuss customer impact and res dif ✅ 2024-09-03
 - [ ] Monthly res difficult meetings
-- [ ] Test Plan for 10.8.5
-- [ ] Taste of Calgary writeup
+- [x] Test Plan for 10.8.5 ✅ 2024-09-03
+- [x] Taste of Calgary writeup ✅ 2024-09-03
 - [ ] 
 # Archived
 
