@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "0804fcbbb678930c",
-        "type": "tabs",
-        "dimension": 75.56451612903226,
-        "children": [
-          {
-            "id": "f58408878a54f3f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily Notes/2024-08-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c3eb305f882bf5b9",
         "type": "tabs",
-        "dimension": 24.43548387096774,
         "children": [
           {
             "id": "03f6b1282816994a",
@@ -107,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-19.md",
+                "file": "Notes/Daily Notes/2024-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-19.md",
+                "file": "Notes/Daily Notes/2024-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-08-19.md"
+                "file": "Notes/Daily Notes/2024-09-04.md"
               }
             }
           },
@@ -172,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +164,48 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "e3235be98b4be323",
+    "type": "floating",
+    "children": [
+      {
+        "id": "58c06fbd1913e97d",
+        "type": "window",
+        "children": [
+          {
+            "id": "103b7211d9e55fd6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f58408878a54f3f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily Notes/2024-09-04.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -899,
+        "y": 288,
+        "width": 771,
+        "height": 991,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "f58408878a54f3f9",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-08-19.md",
+    "Notes/Daily Notes/2024-09-04.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-08-14.md",
     "Notes/Performance Discussion.md",
     "conflict-files-obsidian-git.md",
@@ -211,7 +229,6 @@
     "Notes/Daily Notes/2024-07-02.md",
     "Notes/Personal Development/SDK Testing.md",
     "Notes/Daily Notes/2024-06-17.md",
-    "Notes/Daily Notes/2024-05-22.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
