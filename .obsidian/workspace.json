@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Performance Discussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Performance Discussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Performance Discussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md"
+                "file": "Notes/Performance Discussion.md"
               }
             }
           },
@@ -186,9 +186,10 @@
   },
   "active": "f58408878a54f3f9",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2024-09-05.md",
+    "Notes/Daily Notes/2024-08-02.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-09-03.md",
     "Notes/Onboarding.md",
     "Home Notes/Book Reviews.md",
@@ -197,7 +198,6 @@
     "Notes/Daily Notes/2024-08-13.md",
     "Notes/Data Repository.md",
     "Notes/Daily Notes/2024-08-06.md",
-    "Notes/Daily Notes/2024-08-02.md",
     "Notes/Daily Notes/2024-07-24.md",
     "Notes/Daily Notes/2024-07-23.md",
     "Notes/Daily Notes/2024-07-15.md",

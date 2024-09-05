@@ -92,3 +92,6 @@ Use your task list
 ---
 
 September
+Retro notes - Some close ended questions
+Leadership Course - Do it 2 months
+
