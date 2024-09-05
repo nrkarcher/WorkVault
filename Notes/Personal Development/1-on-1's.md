@@ -89,3 +89,6 @@ Feedback for others can be positive.
 Hold others accountable. (scrum, retro, etc.)
 Use your task list
 
+---
+
+September
