@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Performance Discussion.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Performance Discussion.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Performance Discussion.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Performance Discussion.md"
+                "file": "Notes/Personal Development/1-on-1's.md"
               }
             }
           },
@@ -186,6 +186,9 @@
   },
   "active": "f58408878a54f3f9",
   "lastOpenFiles": [
+    "Notes/11.0 Upgrade.md",
+    "Notes/Data Repository.md",
+    "Notes/Performance Discussion.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2024-09-05.md",
     "Notes/Daily Notes/2024-08-02.md",
@@ -196,14 +199,12 @@
     "Notes/Daily Notes/2024-08-19.md",
     "Notes/Daily Notes/2024-08-14.md",
     "Notes/Daily Notes/2024-08-13.md",
-    "Notes/Data Repository.md",
     "Notes/Daily Notes/2024-08-06.md",
     "Notes/Daily Notes/2024-07-24.md",
     "Notes/Daily Notes/2024-07-23.md",
     "Notes/Daily Notes/2024-07-15.md",
     "Notes/Daily Notes/2024-07-10.md",
     "Notes/Daily Notes/2024-07-08.md",
-    "Notes/11.0 Upgrade.md",
     "Notes/Gun Barrel.md",
     "Notes/SDK Testing.md",
     "Notes/Daily Notes/2024-07-03.md",
@@ -211,7 +212,6 @@
     "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-11.md",
     "Notes/Daily Notes/2024-07-02.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
