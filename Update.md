@@ -1,0 +1,1 @@
+The Gunny Bears have completed all of the tickets for the Gun Barrel MVP! We spent a lot of time planning this project out and it's great to see it come together. 

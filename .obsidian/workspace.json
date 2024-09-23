@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-17.md",
+                "file": "Notes/Daily Notes/2024-09-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f30d58be16e4694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Update.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-17.md",
+                "file": "Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-17.md",
+                "file": "Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-17.md"
+                "file": "Update.md"
               }
             }
           },
@@ -184,10 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58408878a54f3f9",
+  "active": "1f30d58be16e4694",
   "lastOpenFiles": [
-    "Notes/Onboarding.md",
+    "Update.md",
+    "Notes/Daily Notes/2024-09-23.md",
     "Notes/Daily Notes/2024-09-17.md",
+    "Notes/Onboarding.md",
     "Notes/Daily Notes/2024-09-10.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/11.0 Upgrade.md",
@@ -210,8 +225,6 @@
     "Notes/Gun Barrel.md",
     "Notes/SDK Testing.md",
     "Notes/Daily Notes/2024-07-03.md",
-    "Notes/Daily Notes/2024-06-12.md",
-    "Notes/Daily Notes/2024-06-18.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
