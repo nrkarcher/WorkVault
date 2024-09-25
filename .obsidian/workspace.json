@@ -19,21 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1f30d58be16e4694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily Notes/2024-09-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-24.md",
+                "file": "Notes/Daily Notes/2024-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-24.md",
+                "file": "Notes/Daily Notes/2024-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-24.md"
+                "file": "Notes/Daily Notes/2024-09-25.md"
               }
             }
           },
@@ -197,10 +184,48 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "1674ffe6ddeb4a92",
+    "type": "floating",
+    "children": [
+      {
+        "id": "585963fffeaf2bda",
+        "type": "window",
+        "children": [
+          {
+            "id": "520e89648fb726cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1f30d58be16e4694",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily Notes/2024-09-25.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1386,
+        "y": 136,
+        "width": 669,
+        "height": 661,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "1f30d58be16e4694",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-09-17.md",
     "Notes/Daily Notes/2024-09-24.md",
+    "Notes/Daily Notes/2024-09-25.md",
+    "Notes/Daily Notes/2024-09-17.md",
     "Notes/Daily Notes/2024-09-10.md",
     "Update.md",
     "Notes/Daily Notes/2024-09-23.md",
@@ -224,7 +249,6 @@
     "Notes/Daily Notes/2024-07-10.md",
     "Notes/Daily Notes/2024-07-08.md",
     "Notes/Gun Barrel.md",
-    "Notes/SDK Testing.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
