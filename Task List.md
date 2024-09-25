@@ -1,6 +1,5 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
-- [x] Test Plan for Gun Barrel Viewer ➕ 2024-07-23 ✅ 2024-09-05
 - [ ] Monthly res difficult meetings
 - [ ] 
 # Archived
@@ -43,3 +42,4 @@
 - [x] Discuss customer impact and res dif ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
 - [x] Test Plan for 10.8.5 ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
 - [x] Taste of Calgary writeup ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
+- [x] Test Plan for Gun Barrel Viewer ➕ 2024-07-23 ✅ 2024-09-05 🔒 [[2024-09-25]] 🕸️ Task List
