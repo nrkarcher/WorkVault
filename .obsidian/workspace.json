@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-25.md",
+                "file": "Notes/Gun Barrel Cross Team Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Gun Barrel Cross Team Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Notes/Gun Barrel Cross Team Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Notes/Gun Barrel Cross Team Testing.md"
               }
             }
           },
@@ -184,15 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03f6b1282816994a",
+  "active": "f58408878a54f3f9",
   "lastOpenFiles": [
+    "Notes/Gun Barrel.md",
+    "Notes/Gun Barrel Cross Team Testing.md",
+    "Notes/Team Updates.md",
+    "Task List.md",
     "Notes/Daily Notes/2024-09-25.md",
     "Notes/Daily Notes/2024-10-01.md",
     "Notes/Daily Notes/2024-09-23.md",
     "Notes/Daily Notes/2024-09-24.md",
     "Notes/Daily Notes/2024-09-17.md",
     "Notes/Daily Notes/2024-09-10.md",
-    "Update.md",
     "Notes/Onboarding.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/11.0 Upgrade.md",
@@ -200,7 +203,6 @@
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-09-05.md",
     "Notes/Daily Notes/2024-08-02.md",
-    "Task List.md",
     "Notes/Daily Notes/2024-09-03.md",
     "Home Notes/Book Reviews.md",
     "Notes/Daily Notes/2024-08-19.md",
@@ -210,8 +212,6 @@
     "Notes/Daily Notes/2024-07-24.md",
     "Notes/Daily Notes/2024-07-23.md",
     "Notes/Daily Notes/2024-07-15.md",
-    "Notes/Daily Notes/2024-07-10.md",
-    "Notes/Daily Notes/2024-07-08.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
