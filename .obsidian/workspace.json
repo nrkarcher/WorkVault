@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-30.md",
+                "file": "Notes/Gun Barrel Cross Team Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-30.md",
+                "file": "Notes/Gun Barrel Cross Team Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-30.md",
+                "file": "Notes/Gun Barrel Cross Team Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-30.md"
+                "file": "Notes/Gun Barrel Cross Team Testing.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "f58408878a54f3f9",
   "lastOpenFiles": [
-    "Notes/Gun Barrel Cross Team Testing.md",
     "Notes/Daily Notes/2024-09-30.md",
+    "Notes/Gun Barrel Cross Team Testing.md",
     "Notes/Gun Barrel.md",
     "Notes/Team Updates.md",
     "Task List.md",
