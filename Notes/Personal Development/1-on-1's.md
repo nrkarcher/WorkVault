@@ -101,3 +101,6 @@ Leadership Course - Do it - 2 months
 October
 
 Next sprint - continue on as scrum master for the bug busters.
+Asking more and better questions
+Shared screen - share your notes, share current options and opinions.
+Directing the conversation.
