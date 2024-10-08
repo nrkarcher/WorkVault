@@ -1,6 +1,6 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
-- [ ] Monthly res difficult meetings
+- [x] Monthly res difficult meetings ✅ 2024-10-08
 - [ ] 
 # Archived
 

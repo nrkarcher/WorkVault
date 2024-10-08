@@ -100,3 +100,4 @@ Leadership Course - Do it - 2 months
 
 October
 
+Next sprint - continue on as scrum master for the bug busters.
