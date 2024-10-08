@@ -1,7 +1,7 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
 - [x] Monthly res difficult meetings ✅ 2024-10-08
-- [ ] 
+- [ ] Talk to Jeremy about Blobs
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
