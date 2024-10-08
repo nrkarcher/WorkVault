@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Daily Notes/2024-10-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Daily Notes/2024-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Daily Notes/2024-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md"
+                "file": "Notes/Daily Notes/2024-10-08.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "f58408878a54f3f9",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Personal Development/1-on-1's.md",
+    "Notes/Daily Notes/2024-10-08.md",
+    "Task List.md",
     "Notes/11.0 Upgrade.md",
     "Notes/Gun Barrel Cross Team Testing.md",
     "Notes/Daily Notes/2024-09-30.md",
@@ -211,7 +212,6 @@
     "Notes/Daily Notes/2024-08-13.md",
     "Notes/Daily Notes/2024-08-06.md",
     "Notes/Daily Notes/2024-07-24.md",
-    "Notes/Daily Notes/2024-07-23.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
