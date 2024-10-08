@@ -107,3 +107,6 @@ Directing the conversation.
 What we want, what we don't want, possible issues, dangers, priority
 Talk to Jeremy about Blobs
 11.0
+Needs, wants, don't wants. - Get it done for next time
+
+
