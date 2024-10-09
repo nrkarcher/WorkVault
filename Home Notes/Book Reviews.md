@@ -11,3 +11,7 @@ Piranesi by Susanna Clarke
 
 Piranesi by Susanna Clarke follows the story of Piranesi, our narrator, as he explores the mostly empty labyrinth that he lives in. With no memory of the world outside of the labyrinth he is viewing this world through new eyes. This gives the reading an interesting perspective but can at times be a little annoying when he goes into detail. It seems like there is more to the story than what we are given. The how's and why's of the big reveal are mostly waved away and left me wondering about the mechanics of the world that the book takes place in. Overall, I found it to be a comfortable book to read, the setting seemed interesting but there could have been more.
 3.5/5
+
+The Finder by Will Ferguson
+
+The Finder by Will Ferguson bounces mostly between an interpol agent attempting to track down a world renowned thief and a world-weary travel writer as he attempts to track down his ex-girlfriend with occasional glimpses into the perspective of "The Finder". This book felt like it was close to a very interesting story with the character of the Finder, a seemingly amoral man who tracks down lost items thought lost to time. 
