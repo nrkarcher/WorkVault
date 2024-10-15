@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bug Portfolios.md",
+                "file": "Notes/Daily Notes/2024-10-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bug Portfolios.md",
+                "file": "Notes/Daily Notes/2024-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Bug Portfolios.md",
+                "file": "Notes/Daily Notes/2024-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bug Portfolios.md"
+                "file": "Notes/Daily Notes/2024-10-08.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "f58408878a54f3f9",
   "lastOpenFiles": [
-    "Home Notes/Book Reviews.md",
     "Notes/Bug Portfolios.md",
+    "Home Notes/Book Reviews.md",
     "Notes/Daily Notes/2024-10-08.md",
     "Notes/Daily Notes/2024-09-24.md",
     "Notes/Daily Notes/2024-10-01.md",
