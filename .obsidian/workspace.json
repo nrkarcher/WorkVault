@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-10-15.md",
+                "file": "Notes/Daily Notes/2024-10-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-10-15.md",
+                "file": "Notes/Daily Notes/2024-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-10-15.md",
+                "file": "Notes/Daily Notes/2024-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily Notes/2024-10-15.md"
+                "file": "Notes/Daily Notes/2024-10-16.md"
               }
             }
           },
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58408878a54f3f9",
+  "active": "302b52db8447604f",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-10-15.md",
+    "Notes/Daily Notes/2024-10-16.md",
+    "Untitled.canvas",
+    "Task List.md",
     "Notes/Daily Notes/2024-10-08.md",
     "Notes/Bug Portfolios.md",
     "Home Notes/Book Reviews.md",
@@ -211,8 +213,6 @@
     "Notes/Daily Notes/2024-09-03.md",
     "Notes/Daily Notes/2024-08-19.md",
     "Notes/Daily Notes/2024-08-14.md",
-    "Notes/Daily Notes/2024-08-13.md",
-    "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
     "Home Notes",
