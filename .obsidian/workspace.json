@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "0804fcbbb678930c",
-        "type": "tabs",
-        "dimension": 75.56451612903226,
-        "children": [
-          {
-            "id": "f58408878a54f3f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily Notes/2024-10-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c3eb305f882bf5b9",
         "type": "tabs",
-        "dimension": 24.43548387096774,
         "children": [
           {
             "id": "03f6b1282816994a",
@@ -184,7 +164,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "302b52db8447604f",
+  "floating": {
+    "id": "2b0d6893ee1635e5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "64867a6814a282a8",
+        "type": "window",
+        "children": [
+          {
+            "id": "63e819d921e016b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f58408878a54f3f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily Notes/2024-10-16.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 116,
+        "width": 640,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f58408878a54f3f9",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-10-15.md",
     "Notes/Daily Notes/2024-10-16.md",
