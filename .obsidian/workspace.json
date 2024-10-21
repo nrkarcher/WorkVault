@@ -4,6 +4,36 @@
     "type": "split",
     "children": [
       {
+        "id": "49ab988c8934fe2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc289f982df9049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily Notes/2024-09-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "406230c3de4ad222",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "c3eb305f882bf5b9",
         "type": "tabs",
         "children": [
@@ -71,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.5
   },
   "right": {
     "id": "f3f10edb56a1074b",
@@ -87,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Daily Notes/2024-09-04.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,11 +174,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,51 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "e3235be98b4be323",
-    "type": "floating",
-    "children": [
-      {
-        "id": "58c06fbd1913e97d",
-        "type": "window",
-        "children": [
-          {
-            "id": "103b7211d9e55fd6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f58408878a54f3f9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily Notes/2024-09-04.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -899,
-        "y": 288,
-        "width": 771,
-        "height": 991,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f58408878a54f3f9",
+  "active": "406230c3de4ad222",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-08-19.md",
-    "Notes/Daily Notes/2024-09-04.md",
+    "conflict-files-obsidian-git.md",
+    "Notes/Daily Notes/2024-09-03.md",
+    "Notes/Daily Notes/2024-09-16.md",
+    "Notes/Daily Notes/2024-09-10.md",
     "Task List.md",
+    "Notes/Daily Notes/2024-09-04.md",
+    "Notes/Daily Notes/2024-08-19.md",
     "Notes/Daily Notes/2024-08-14.md",
     "Notes/Performance Discussion.md",
-    "conflict-files-obsidian-git.md",
     "Notes/Daily Notes/2024-08-13.md",
     "Notes/Daily Notes/2024-08-06.md",
     "Notes/Data Repository.md",
@@ -226,9 +218,6 @@
     "Notes/Daily Notes/2024-06-12.md",
     "Notes/Daily Notes/2024-06-18.md",
     "Notes/Daily Notes/2024-06-11.md",
-    "Notes/Daily Notes/2024-07-02.md",
-    "Notes/Personal Development/SDK Testing.md",
-    "Notes/Daily Notes/2024-06-17.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",

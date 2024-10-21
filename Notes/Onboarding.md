@@ -22,4 +22,4 @@ Issues:
 ---
 Hiring
 
-Potentially bring in Cole.
+
