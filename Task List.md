@@ -1,5 +1,6 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
+<<<<<<< HEAD
 - [x] Test Plan for Gun Barrel Viewer ➕ 2024-07-23 ✅ 2024-09-04
 - [x] Check with SDK team over test plan ✅ 2024-09-03
 - [x] Discuss customer impact and res dif ✅ 2024-09-03
@@ -7,6 +8,11 @@
 - [x] Test Plan for 10.8.5 ✅ 2024-09-03
 - [x] Taste of Calgary writeup ✅ 2024-09-03
 - [ ] 
+=======
+- [x] Monthly res difficult meetings ✅ 2024-10-08
+- [ ] Talk to Jeremy about Blobs
+- [ ] D-10435 missing project defect
+>>>>>>> origin/main
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
@@ -43,3 +49,8 @@
 - [x] Get Amber to add a ticket for Measurement users and roles ✅ 2024-07-23 🔒 [[2024-07-25]] 🕸️ Task List
 - [x] Roach S000040841 ✅ 2024-07-24 🔒 [[2024-07-25]] 🕸️ Task List
 - [x] Roach S000040840 ✅ 2024-07-24 🔒 [[2024-07-25]] 🕸️ Task List
+- [x] Check with SDK team over test plan ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
+- [x] Discuss customer impact and res dif ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
+- [x] Test Plan for 10.8.5 ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
+- [x] Taste of Calgary writeup ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
+- [x] Test Plan for Gun Barrel Viewer ➕ 2024-07-23 ✅ 2024-09-05 🔒 [[2024-09-25]] 🕸️ Task List

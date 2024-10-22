@@ -89,3 +89,24 @@ Feedback for others can be positive.
 Hold others accountable. (scrum, retro, etc.)
 Use your task list
 
+---
+
+September
+Retro notes - Some close ended questions
+Leadership Course - Do it - 2 months
+
+
+---
+
+October
+
+Next sprint - continue on as scrum master for the bug busters.
+Asking more and better questions
+Shared screen - share your notes, share current options and opinions.
+Directing the conversation.
+What we want, what we don't want, possible issues, dangers, priority
+Talk to Jeremy about Blobs
+11.0
+Needs, wants, don't wants. - Get it done for next time
+
+
