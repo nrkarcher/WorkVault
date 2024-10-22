@@ -6,7 +6,6 @@
       {
         "id": "c3eb305f882bf5b9",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "f58408878a54f3f9",
@@ -17,7 +16,21 @@
                 "file": "Notes/Daily Notes/2024-10-16.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-16"
+            }
+          },
+          {
+            "id": "50c7d58b8ab744a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -31,10 +44,13 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Task List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -108,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-16"
             }
           },
           {
@@ -120,7 +144,9 @@
                 "file": "Notes/Daily Notes/2024-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-16"
             }
           },
           {
@@ -131,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,7 +169,9 @@
               "type": "outline",
               "state": {
                 "file": "Notes/Daily Notes/2024-10-16.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-16"
             }
           },
           {
@@ -149,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -157,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -177,7 +211,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58408878a54f3f9",
+  "active": "50c7d58b8ab744a6",
   "lastOpenFiles": [
     "Task List.md",
     "Notes/Daily Notes/2024-10-16.md",
