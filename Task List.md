@@ -1,15 +1,8 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
 <<<<<<< HEAD
-- [x] Test Plan for Gun Barrel Viewer ➕ 2024-07-23 ✅ 2024-09-04
-- [x] Check with SDK team over test plan ✅ 2024-09-03
-- [x] Discuss customer impact and res dif ✅ 2024-09-03
-- [ ] Monthly res difficult meetings
-- [x] Test Plan for 10.8.5 ✅ 2024-09-03
-- [x] Taste of Calgary writeup ✅ 2024-09-03
 - [ ] 
 =======
-- [x] Monthly res difficult meetings ✅ 2024-10-08
 - [ ] Talk to Jeremy about Blobs
 - [ ] D-10435 missing project defect
 >>>>>>> origin/main
@@ -54,3 +47,10 @@
 - [x] Test Plan for 10.8.5 ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
 - [x] Taste of Calgary writeup ✅ 2024-09-03 🔒 [[2024-09-05]] 🕸️ Task List
 - [x] Test Plan for Gun Barrel Viewer ➕ 2024-07-23 ✅ 2024-09-05 🔒 [[2024-09-25]] 🕸️ Task List
+- [x] Check with SDK team over test plan ✅ 2024-09-03 🔒 [[2024-11-12]] 🕸️ Task List
+- [x] Discuss customer impact and res dif ✅ 2024-09-03 🔒 [[2024-11-12]] 🕸️ Task List
+- [x] Test Plan for 10.8.5 ✅ 2024-09-03 🔒 [[2024-11-12]] 🕸️ Task List
+- [x] Taste of Calgary writeup ✅ 2024-09-03 🔒 [[2024-11-12]] 🕸️ Task List
+- [x] Test Plan for Gun Barrel Viewer ➕ 2024-07-23 ✅ 2024-09-04 🔒 [[2024-11-12]] 🕸️ Task List
+- [x] Monthly res difficult meetings ✅ 2024-10-08 🔒 [[2024-11-12]] 🕸️ Task List
+- [x] Monthly res difficult meetings ✅ 2024-11-12 🔒 [[2024-11-12]] 🕸️ Task List
