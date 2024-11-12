@@ -1,2 +1,6 @@
 Sept 2024
 The Gunny Bears have completed all of the tickets for the Gun Barrel MVP! We spent a lot of time planning this project out and it's great to see it come together. We learnt a lot over the course of this project and look forward to starting in on the next. Thanks in advance to those who help out with the cross team testing for the gun barrels. We're also excited to have 10.8.5 tested and ready to go. And a big welcome back to Pranj, happy to have you on the SeisWare team.
+
+Oct 2024
+
+The Gunny bears have completed the last of the clean up stories for the gun barrel project and have started in on the planning stages for the next project. We also welcomed Pranj to the team and have been getting him trained up on SeisWare and QA process, in preparation for him taking on the upcoming TGS project. We did a team re-shuffle and the Bug Busters team has embraced the prison-yard style of scrum. I've begun brewing wine in my toilet,  the fermentation process has begun, and my apartment fills with a sweet, intoxicating aroma, reminiscent of dreams and distant memories. I am looking forward to maturation and bottling process (Don't worry, I'll share). Also, our scrum updates seem to be going faster.
