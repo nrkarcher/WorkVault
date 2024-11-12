@@ -23,86 +23,31 @@
             }
           },
           {
-            "id": "3cca2cffaeda151b",
+            "id": "73e4fba20336df93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Team Updates.md",
+                "file": "Notes/Daily Notes/2024-11-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team Updates"
+              "title": "2024-11-12"
             }
           },
           {
-            "id": "87c69a85af176a10",
+            "id": "09939685b9bedd16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Team Updates.md",
+                "file": "Notes/Daily Notes/2024-11-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team Updates"
-            }
-          },
-          {
-            "id": "1a200ac2390869e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Team Updates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Team Updates"
-            }
-          },
-          {
-            "id": "0744e690e733c02a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Team Updates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Team Updates"
-            }
-          },
-          {
-            "id": "4cde4b46e62fccdc",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "265ade568456e823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Team Updates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Team Updates"
+              "title": "2024-11-12"
             }
           },
           {
@@ -120,34 +65,6 @@
             }
           },
           {
-            "id": "365f7bab756fccd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Team Updates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Team Updates"
-            }
-          },
-          {
-            "id": "39f274e05ed31672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Task List"
-            }
-          },
-          {
             "id": "77a2e5ba167bf033",
             "type": "leaf",
             "state": {
@@ -161,8 +78,7 @@
               "title": "2024-09-10"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -346,13 +262,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "265ade568456e823",
+  "active": "fcc289f982df9049",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Notes/Team Updates.md",
     "Notes/Daily Notes/2024-09-03.md",
-    "Notes/Daily Notes/2024-09-10.md",
+    "Notes/Team Updates.md",
     "Task List.md",
+    "conflict-files-obsidian-git.md",
+    "Notes/Daily Notes/2024-11-12.md",
+    "Notes/Daily Notes/2024-10-22.md",
+    "Notes/Daily Notes/2024-09-10.md",
     "Notes/Gun Barrel Cross Team Testing.md",
     "Notes/Daily Notes/2024-10-16.md",
     "Notes/Daily Notes/2024-10-15.md",
@@ -372,8 +290,6 @@
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-08-13.md",
     "Notes/Daily Notes/2024-08-06.md",
-    "Notes/Data Repository.md",
-    "Notes/Daily Notes/2024-08-02.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
