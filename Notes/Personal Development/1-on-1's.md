@@ -109,4 +109,12 @@ Talk to Jeremy about Blobs
 11.0
 Needs, wants, don't wants. - Get it done for next time
 
+---
+
+November
+
+
+
+
+
 

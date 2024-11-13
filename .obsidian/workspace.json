@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 200
   },
   "right": {
     "id": "f3f10edb56a1074b",
@@ -250,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,7 +262,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcc289f982df9049",
+  "active": "22a27cb3d4052faa",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-09-03.md",
     "Notes/X-Mas Party.md",
