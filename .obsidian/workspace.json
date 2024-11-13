@@ -14,24 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-09-03.md",
+                "file": "Notes/Personal Development/1-on-1's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-09-03"
-            }
-          },
-          {
-            "id": "69c563734045fe46",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "1-on-1's"
             }
           },
           {
@@ -90,8 +78,7 @@
               "title": "2024-09-10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -275,9 +262,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69c563734045fe46",
+  "active": "fcc289f982df9049",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-09-03.md",
+    "Notes/X-Mas Party.md",
     "Notes/Team Updates.md",
     "Task List.md",
     "conflict-files-obsidian-git.md",
@@ -302,7 +290,6 @@
     "Notes/Daily Notes/2024-08-14.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2024-08-13.md",
-    "Notes/Daily Notes/2024-08-06.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
