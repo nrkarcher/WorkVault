@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "69c563734045fe46",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "73e4fba20336df93",
             "type": "leaf",
             "state": {
@@ -78,7 +90,8 @@
               "title": "2024-09-10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3eb305f882bf5b9",
@@ -262,7 +275,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcc289f982df9049",
+  "active": "69c563734045fe46",
   "lastOpenFiles": [
     "Notes/Daily Notes/2024-09-03.md",
     "Notes/Team Updates.md",
