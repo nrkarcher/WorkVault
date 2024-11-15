@@ -1,7 +1,5 @@
 - [ ] Add data descriptions to the project excel sheet. [[Data Repository]]
 - [ ] Automation averaging of timing tests
-- [ ] 
-
 - [ ] Talk to Jeremy about Blobs
 - [ ] D-10435 missing project defect
 # Archived
