@@ -122,3 +122,8 @@ Leading with questions.
 December
 
 
+Chat with Jer about innovation projects.
+Workflow test plan
+Run though Demos and Courses. Workflow wednesdays.
+Create a test plan for this that Mila can run over christmas.
+
