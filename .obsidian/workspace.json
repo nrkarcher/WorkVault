@@ -29,28 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Daily Notes/2024-12-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-on-1's"
-            }
-          },
-          {
-            "id": "608403d4bfc904be",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "2024-12-10"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,12 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "608403d4bfc904be",
+  "active": "fc6e48316f61bd50",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2024-12-03.md",
-    "Notes/Camp Kindle.md",
+    "Notes/Daily Notes/2024-12-10.md",
     "Notes/Personal Development/1-on-1's.md",
+    "Task List.md",
+    "Notes/Camp Kindle.md",
     "Notes/Daily Notes/2024-09-03.md",
     "Notes/X-Mas Party.md",
     "Notes/Team Updates.md",
@@ -238,7 +227,6 @@
     "Notes/Bug Portfolios.md",
     "Notes/Daily Notes/2024-09-16.md",
     "Notes/Daily Notes/2024-09-04.md",
-    "Notes/Daily Notes/2024-08-19.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
