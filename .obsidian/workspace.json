@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "1-on-1's"
             }
+          },
+          {
+            "id": "608403d4bfc904be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc6e48316f61bd50",
+  "active": "608403d4bfc904be",
   "lastOpenFiles": [
     "Task List.md",
     "Notes/Daily Notes/2024-12-03.md",
