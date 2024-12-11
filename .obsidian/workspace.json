@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Notes/2024-12-10.md",
+                "file": "Notes/Signing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-10"
+              "title": "Signing"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "fc6e48316f61bd50",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2024-12-03.md",
     "Notes/Daily Notes/2024-12-10.md",
+    "Notes/Daily Notes/2024-12-03.md",
     "Notes/Personal Development/1-on-1's.md",
     "Task List.md",
     "Notes/Camp Kindle.md",
