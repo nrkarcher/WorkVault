@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Signing.md",
+                "file": "Notes/Daily Notes/2024-12-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signing"
+              "title": "2024-12-19"
             }
           }
         ],
@@ -201,6 +201,8 @@
   },
   "active": "fc6e48316f61bd50",
   "lastOpenFiles": [
+    "Notes/Signing.md",
+    "Notes/Daily Notes/2024-12-19.md",
     "Notes/Daily Notes/2024-12-10.md",
     "Notes/Daily Notes/2024-12-03.md",
     "Notes/Personal Development/1-on-1's.md",
@@ -225,8 +227,6 @@
     "Notes/Daily Notes/2024-09-17.md",
     "Notes/Daily Notes/2024-09-05.md",
     "Notes/Bug Portfolios.md",
-    "Notes/Daily Notes/2024-09-16.md",
-    "Notes/Daily Notes/2024-09-04.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
