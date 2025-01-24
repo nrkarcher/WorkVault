@@ -128,3 +128,16 @@ Run though Demos and Courses. Workflow wednesdays.
 Create a test plan for this that Mila can run over christmas.
 Jan 6 - week run QA stuff.
 
+---
+
+
+January
+
+What are we trying to get out of this discussion.
+What parts of this meeting are ceremonial and what parts are generating change.
+Mila is very independent - how to get more involvement
+More options for presentation?
+Emotional Intelligence - work on that.
+Accountability - Crucial Accountability
+Leadersharp
+Look into getting metrics out of V1
