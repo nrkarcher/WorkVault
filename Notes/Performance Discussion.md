@@ -6,3 +6,5 @@ Add profiling task to performance testing ticket.
 How-to video on profiling
 
 
+Is there a difference between 4k and regular resolution screens?
+Does changing graphics settings change loading times.
