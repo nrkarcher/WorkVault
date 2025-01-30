@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Team Updates.md",
+                "file": "Notes/Daily Notes/2025-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Team Updates"
+              "title": "Backlinks for 2025-01-30"
             }
           },
           {
@@ -202,8 +202,8 @@
   },
   "active": "4a98b856f17e00f8",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2025-01-30.md",
     "Task List.md",
+    "Notes/Daily Notes/2025-01-30.md",
     "Notes/Daily Notes/2025-01-29.md",
     "Notes/Signing.md",
     "Notes/Daily Notes/2025-01-28.md",
