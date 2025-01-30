@@ -42,7 +42,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -209,21 +210,34 @@
                   "icon": "lucide-file",
                   "title": "2025-01-29"
                 }
+              },
+              {
+                "id": "6818911a903dc350",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.8.3"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.8.3"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": 1592,
-        "y": 122,
-        "width": 1085,
-        "height": 1488,
+        "y": 121,
+        "width": 1088,
+        "height": 1491,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "fc6e48316f61bd50",
+  "active": "6818911a903dc350",
   "lastOpenFiles": [
     "Task List.md",
     "Notes/Daily Notes/2025-01-29.md",
