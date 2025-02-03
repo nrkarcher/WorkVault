@@ -139,5 +139,12 @@ Mila is very independent - how to get more involvement
 More options for presentation?
 Emotional Intelligence - work on that.
 Accountability - Crucial Accountability
-Leadersharp
+Leadership
 Look into getting metrics out of V1
+
+---
+
+
+Feb
+
+Vacation planning - do it
