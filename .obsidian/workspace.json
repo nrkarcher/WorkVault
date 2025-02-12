@@ -41,12 +41,14 @@
             "id": "f80fec4fd03f0921",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Notes/Bug Process.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Bug Process"
             }
           }
         ],
@@ -214,6 +216,9 @@
   },
   "active": "f80fec4fd03f0921",
   "lastOpenFiles": [
+    "Notes/Licensing.md",
+    "README.md",
+    "Notes/Bug Process.md",
     "Notes/Daily Notes/2025-01-30.md",
     "Task List.md",
     "Notes/Daily Notes/2025-01-29.md",
@@ -238,9 +243,6 @@
     "Notes/Daily Notes/2025-01-23.md",
     "Notes/Critical Discussions.md",
     "Notes/Daily Notes/2024-12-19.md",
-    "Notes/Daily Notes/2024-12-10.md",
-    "Notes/Daily Notes/2024-12-03.md",
-    "Notes/Personal Development/1-on-1's.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
