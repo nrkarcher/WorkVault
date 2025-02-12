@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "1-on-1's"
             }
+          },
+          {
+            "id": "f80fec4fd03f0921",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a98b856f17e00f8",
+  "active": "f80fec4fd03f0921",
   "lastOpenFiles": [
     "Notes/Daily Notes/2025-01-30.md",
     "Task List.md",
