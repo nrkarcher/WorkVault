@@ -156,3 +156,4 @@ Seiswarian Defined
 
 March
 
+Include more crucible training in the initial training process.
