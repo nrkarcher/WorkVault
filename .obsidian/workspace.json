@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Signing"
             }
+          },
+          {
+            "id": "04b4a706194e320a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a98b856f17e00f8",
+  "active": "04b4a706194e320a",
   "lastOpenFiles": [
     "Notes/Broken Projects.md",
     "Notes/Daily Notes/2025-02-13.md",
