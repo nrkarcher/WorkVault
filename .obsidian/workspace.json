@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Task List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-on-1's"
+              "title": "Task List"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "04b4a706194e320a",
   "lastOpenFiles": [
+    "Notes/Personal Development/1-on-1's.md",
     "Notes/Broken Projects.md",
     "Notes/Daily Notes/2025-02-13.md",
     "Notes/Bug Process.md",
@@ -242,7 +243,6 @@
     "Notes/Daily Notes/2024-11-19.md",
     "Great Lakes/Initial Plans.md",
     "Great Lakes",
-    "Notes/Daily Notes/2025-01-23.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
