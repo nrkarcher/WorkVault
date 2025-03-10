@@ -55,12 +55,14 @@
             "id": "c15ee33eb4f718e7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Notes/Personal Development/1-on-1's.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "1-on-1's"
             }
           }
         ],
