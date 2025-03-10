@@ -50,9 +50,21 @@
               "icon": "lucide-file",
               "title": "Task List"
             }
+          },
+          {
+            "id": "c15ee33eb4f718e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04b4a706194e320a",
+  "active": "c15ee33eb4f718e7",
   "lastOpenFiles": [
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Broken Projects.md",
