@@ -69,12 +69,14 @@
             "id": "d458fbbe3443f9ba",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Notes/Daily Notes/2025-05-12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "2025-05-12"
             }
           }
         ],
@@ -242,6 +244,7 @@
   },
   "active": "d458fbbe3443f9ba",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2025-05-12.md",
     "Notes/Daily Notes/2025-03-27.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Broken Projects.md",
@@ -267,7 +270,6 @@
     "Notes/Daily Notes/2024-12-17.md",
     "Notes/Daily Notes/2024-11-27.md",
     "Notes/Daily Notes/2024-11-26.md",
-    "Notes/Daily Notes/2024-11-19.md",
     "Great Lakes",
     "Untitled.canvas",
     "Notes/Personal Development",
