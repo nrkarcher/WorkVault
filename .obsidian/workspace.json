@@ -50,23 +50,9 @@
               "icon": "lucide-file",
               "title": "Task List"
             }
-          },
-          {
-            "id": "6d6b196319870859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily Notes/2025-06-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-24"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,10 +214,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6b196319870859",
+  "active": "04b4a706194e320a",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2025-06-24.md",
+    "Task List.md",
     "Notes/Daily Notes/2025-06-04.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Team Updates.md",
