@@ -37,8 +37,7 @@
               "title": "Signing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,49 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "4659a5b3a1331a60",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5042b9f7797c9969",
-        "type": "window",
-        "children": [
-          {
-            "id": "983003c67fcc020f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "04b4a706194e320a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily Notes/2025-06-25.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-06-25"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -834,
-        "y": 707,
-        "width": 733,
-        "height": 684,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "04b4a706194e320a",
+  "active": "03f6b1282816994a",
   "lastOpenFiles": [
-    "Task List.md",
     "Notes/Daily Notes/2025-06-25.md",
+    "Task List.md",
     "Notes/Daily Notes/2025-06-24.md",
     "Notes/Daily Notes/2025-06-04.md",
     "Notes/Personal Development/1-on-1's.md",
