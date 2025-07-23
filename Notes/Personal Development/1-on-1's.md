@@ -163,3 +163,6 @@ Include more crucible training in the initial training process.
 
 July
 
+Performance testing - Put it together - isolate data types
+- Before Aug 11
+
