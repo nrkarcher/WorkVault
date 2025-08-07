@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
+                "file": "Notes/Performance Discussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-on-1's"
+              "title": "Performance Discussion"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "bcc90638ba71fe42",
   "lastOpenFiles": [
+    "Notes/Personal Development/1-on-1's.md",
     "Notes/Performance Discussion.md",
     "Notes/Daily Notes/2025-07-22.md",
     "Task List.md",
@@ -223,7 +224,6 @@
     "Notes/Daily Notes/2025-06-25.md",
     "Notes/Daily Notes/2025-06-24.md",
     "Notes/Daily Notes/2025-06-04.md",
-    "Notes/Personal Development/1-on-1's.md",
     "Notes/Team Updates.md",
     "Notes/Daily Notes/2025-05-12.md",
     "Notes/Daily Notes/2025-03-27.md",
