@@ -50,9 +50,21 @@
               "icon": "lucide-file",
               "title": "1-on-1's"
             }
+          },
+          {
+            "id": "abab3fca722a1e12",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,6 +218,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcc90638ba71fe42",
+  "active": "abab3fca722a1e12",
   "lastOpenFiles": [
     "Notes/Performance Discussion.md",
     "Notes/Personal Development/1-on-1's.md",
