@@ -55,12 +55,14 @@
             "id": "abab3fca722a1e12",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Notes/Daily Notes/2025-08-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "2025-08-21"
             }
           }
         ],
@@ -229,6 +231,7 @@
   },
   "active": "abab3fca722a1e12",
   "lastOpenFiles": [
+    "Notes/Daily Notes/2025-08-21.md",
     "Notes/Performance Discussion.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2025-07-22.md",
@@ -254,7 +257,6 @@
     "Notes/Tech Team.md",
     "Notes/TGS.md",
     "Notes/Super Team.md",
-    "Notes/Peru.md",
     "Great Lakes",
     "Untitled.canvas",
     "Notes/Personal Development",
