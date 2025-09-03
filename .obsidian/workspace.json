@@ -64,9 +64,21 @@
               "icon": "lucide-file",
               "title": "2025-08-27"
             }
+          },
+          {
+            "id": "4eb971e2fb8ef823",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a414b31cb8f2dc",
+  "active": "4eb971e2fb8ef823",
   "lastOpenFiles": [
     "Task List.md",
     "Notes/Daily Notes/2025-08-27.md",
