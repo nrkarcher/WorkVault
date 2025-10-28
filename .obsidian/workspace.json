@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bug Process.md",
+                "file": "Notes/Daily Notes/2025-10-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bug Process"
+              "title": "2025-10-28"
             }
           }
         ],
@@ -231,8 +231,9 @@
   },
   "active": "74a414b31cb8f2dc",
   "lastOpenFiles": [
-    "Notes/Bug Portfolios.md",
     "Notes/Bug Process.md",
+    "Notes/Daily Notes/2025-10-28.md",
+    "Notes/Bug Portfolios.md",
     "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2025-08-27.md",
     "Task List.md",
@@ -256,7 +257,6 @@
     "Notes/Daily Notes/2025-01-28.md",
     "Notes/Daily Notes/2025-01-21.md",
     "Notes/Daily Notes/2025-01-27.md",
-    "Notes/Tech Team.md",
     "Great Lakes",
     "Untitled.canvas",
     "Notes/Personal Development",
