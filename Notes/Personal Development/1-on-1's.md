@@ -170,6 +170,10 @@ EAR technique
 Better communication around the releases
 Group chat for release team.
 
+=======
+March
+
+Include more crucible training in the initial training process.
 
 ---
 
@@ -208,3 +212,9 @@ September
 
 Book postmortem for 11.0.2
 
+=======
+---
+
+Sept
+
+360's 

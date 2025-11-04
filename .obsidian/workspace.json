@@ -29,6 +29,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/Signing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Signing"
+            }
+          },
+          {
+            "id": "bcc90638ba71fe42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/Personal Development/1-on-1's.md",
                 "mode": "source",
                 "source": false
@@ -36,9 +50,23 @@
               "icon": "lucide-file",
               "title": "1-on-1's"
             }
+          },
+          {
+            "id": "74a414b31cb8f2dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily Notes/2025-10-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-28"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,6 +220,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,35 +229,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a98b856f17e00f8",
+  "active": "74a414b31cb8f2dc",
   "lastOpenFiles": [
-    "Notes/Daily Notes/2025-01-30.md",
+    "Notes/Bug Process.md",
+    "Notes/Daily Notes/2025-10-28.md",
+    "Notes/Bug Portfolios.md",
+    "Notes/Personal Development/1-on-1's.md",
+    "Notes/Daily Notes/2025-08-27.md",
     "Task List.md",
+    "Notes/Daily Notes/2025-08-21.md",
+    "Notes/Performance Discussion.md",
+    "Notes/Daily Notes/2025-07-22.md",
+    "Notes/Daily Notes/2025-07-16.md",
+    "Notes/Daily Notes/2025-06-25.md",
+    "Notes/Daily Notes/2025-06-24.md",
+    "Notes/Daily Notes/2025-06-04.md",
+    "Notes/Team Updates.md",
+    "Notes/Daily Notes/2025-05-12.md",
+    "Notes/Daily Notes/2025-03-27.md",
+    "Notes/Broken Projects.md",
+    "Notes/Daily Notes/2025-02-13.md",
+    "Notes/Licensing.md",
+    "README.md",
+    "Notes/Daily Notes/2025-01-30.md",
     "Notes/Daily Notes/2025-01-29.md",
     "Notes/Signing.md",
     "Notes/Daily Notes/2025-01-28.md",
     "Notes/Daily Notes/2025-01-21.md",
     "Notes/Daily Notes/2025-01-27.md",
-    "Notes/Tech Team.md",
-    "Notes/TGS.md",
-    "Notes/Super Team.md",
-    "Notes/Peru.md",
-    "Notes/Daily Notes/2025-01-20.md",
-    "Notes/Daily Notes/2025-01-14.md",
-    "Notes/Daily Notes/2025-01-08.md",
-    "Notes/Daily Notes/2024-12-18.md",
-    "Notes/Daily Notes/2024-12-17.md",
-    "Notes/Daily Notes/2024-11-27.md",
-    "Notes/Daily Notes/2024-11-26.md",
-    "Notes/Daily Notes/2024-11-19.md",
-    "Great Lakes/Initial Plans.md",
     "Great Lakes",
-    "Notes/Daily Notes/2025-01-23.md",
-    "Notes/Critical Discussions.md",
-    "Notes/Daily Notes/2024-12-19.md",
-    "Notes/Daily Notes/2024-12-10.md",
-    "Notes/Daily Notes/2024-12-03.md",
-    "Notes/Personal Development/1-on-1's.md",
     "Untitled.canvas",
     "Notes/Personal Development",
     "Notes/Daily Notes",
