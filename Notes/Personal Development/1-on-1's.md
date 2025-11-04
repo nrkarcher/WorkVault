@@ -212,9 +212,9 @@ September
 
 Book postmortem for 11.0.2
 
-=======
 ---
 
-Sept
+October
 
-360's 
+360's coming soon.
+Look into what tools/systems are used by managers.
