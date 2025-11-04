@@ -151,3 +151,60 @@ Try to get a few vacation days in a month
 Christmas Party Write-up for OPPC
 Seiswarian Defined
 
+
+---
+
+
+April
+
+Chat with Mila about Leadership
+Have more training meetings with the new QA - licensing, hubspot, etc
+
+
+---
+
+May
+
+Working on Emotional Intelligence
+EAR technique
+Better communication around the releases
+Group chat for release team.
+
+
+---
+
+
+July
+
+Performance testing - Put it together - isolate data types
+- Before Aug 11
+
+Postman
+
+Uncon splitting into 2 teams
+
+
+---
+
+August
+
+What you need, want, don't want in a job.
+
+Minimal time on the co-ops.
+
+Start on performance after TGS
+
+Check the changelogs for the 10.0.1 release and pick a baseline
+
+Nightbugs and retesting - Move tickets to the night bugs if they need to be.
+- Set up recurring meeting
+- Tag things as retest if they may potentially be fixed.
+
+
+---
+
+
+September
+
+Book postmortem for 11.0.2
+
