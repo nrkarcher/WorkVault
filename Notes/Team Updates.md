@@ -10,3 +10,9 @@ The bug busters have been hard at work finishing up a lot of the tech debt and b
 
 Jan 2025
 After a bit of a break the Bug Busters team is back to finishing off the last of the bugs and tech debt associated with the 11.0 release. We had a change of scrum lord and Aidan has taken over the reigns of the team, so far no Prison terms or Cyber Saddams but I look forward to his scrum style. We have also taken on the digital.ai/middleware/hubspot connectivity and are working towards having those services integrated. If you run into any issues with the tickets moving between hubspot and digital.ai please let Nick know.
+
+April 2025
+The TGS team has faced some challenges trying to get the first phase of the TGS importer. We've been fighting with rough documentation and limited testing data trying to get to a first pass together that we will be happy to release. After replanning and re-estimating the remaining work we have a tentative schedule and a plan to move forward. 
+
+May 2025
+The TGS team has completed the first phase of the project and we are importing wells and directional surveys from multiple data sources. Kudos to the support team who are going to help out with the testing of phase 1. We are continuing forward with phase 2, bringing in formations and tops, and fighting with documentation and file formats. 
