@@ -64,9 +64,21 @@
               "icon": "lucide-file",
               "title": "2025-10-28"
             }
+          },
+          {
+            "id": "f3eb76194ceb345f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a414b31cb8f2dc",
+  "active": "f3eb76194ceb345f",
   "lastOpenFiles": [
     "Notes/Bug Process.md",
     "Notes/Daily Notes/2025-10-28.md",
