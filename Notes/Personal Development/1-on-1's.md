@@ -222,3 +222,9 @@ October
 
 360's coming soon.
 Look into what tools/systems are used by managers.
+
+
+---
+
+November
+
