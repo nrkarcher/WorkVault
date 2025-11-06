@@ -228,3 +228,7 @@ Look into what tools/systems are used by managers.
 
 November
 
+For dashboard:
+Criticals
+Weekly bugs
+Retests and QA retests
