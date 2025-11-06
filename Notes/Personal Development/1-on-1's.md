@@ -155,6 +155,13 @@ Seiswarian Defined
 ---
 
 
+March
+
+Include more crucible training in the initial training process.
+
+---
+
+
 April
 
 Chat with Mila about Leadership
@@ -170,10 +177,7 @@ EAR technique
 Better communication around the releases
 Group chat for release team.
 
-=======
-March
 
-Include more crucible training in the initial training process.
 
 ---
 

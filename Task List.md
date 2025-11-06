@@ -1,7 +1,3 @@
-- [x] Add data descriptions to the project excel sheet. [[Data Repository]] ✅ 2025-03-06
-- [x] Automation averaging of timing tests ✅ 2025-03-06
-- [x] Talk to Jeremy about Blobs ✅ 2025-03-06
-- [ ] D-10435 missing project defect
 # Archived
 
 - [x] Review onboarding and discuss with Kathryn [[1-on-1's]] ✅ 2024-01-16 🔒 [[2024-03-06]] 🕸️ Task List
@@ -50,3 +46,7 @@
 - [x] Test Plan for Gun Barrel Viewer ➕ 2024-07-23 ✅ 2024-09-04 🔒 [[2024-11-12]] 🕸️ Task List
 - [x] Monthly res difficult meetings ✅ 2024-10-08 🔒 [[2024-11-12]] 🕸️ Task List
 - [x] Monthly res difficult meetings ✅ 2024-11-12 🔒 [[2024-11-12]] 🕸️ Task List
+- [x] Add data descriptions to the project excel sheet. [[Data Repository]] ✅ 2025-03-06 🔒 [[2025-11-06]] 🕸️ Task List
+- [x] Automation averaging of timing tests ✅ 2025-03-06 🔒 [[2025-11-06]] 🕸️ Task List
+- [x] Talk to Jeremy about Blobs ✅ 2025-03-06 🔒 [[2025-11-06]] 🕸️ Task List
+- [x] D-10435 missing project defect ✅ 2025-11-06 🔒 [[2025-11-06]] 🕸️ Task List
