@@ -1,8 +1,8 @@
 Susan
-Mom
+Mom - Kettle - Done
 Mel
 Peyton - Giraffe Blanket - Done
-Hayden - Toy
-Braxton - Toy
+Hayden - Toy - Done
+Braxton - Toy - Done
 Marlee - Gift Cards
 Harper - Fuzzy blanket
