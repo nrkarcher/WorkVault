@@ -233,3 +233,9 @@ Criticals
 Weekly bugs
 Retests and QA retests
 Check if blockers can be added
+
+
+---
+
+December
+
