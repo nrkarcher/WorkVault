@@ -29,4 +29,14 @@ Add in the data analytics tool.
 
 How would you describe your day to day
 How do you describe your testing process
+Tell us a bit about yourself
+What are your strengths and weaknesses
+Why do you want to work here
+where do you see yourself in 5 years
+why should we hire you?
+Give us an example of when you were faced with a challenge at work and how you dealt with it.
+Greatest professional acheivement
+why are you leaving your current job
+how do you handle stress and pressure
+Do you have any questions for us?
 
