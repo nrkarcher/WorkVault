@@ -5,8 +5,8 @@ Hayden - Toy - Done
 Braxton - Toy - Done
 Gag Gift - Done
 
-Marlee - Gift Cards
-Harper - Fuzzy blanket
-Jordan
-Mel
-Susan
+Marlee - Hoody
+Harper - Done
+Jordan - Whiskey?
+Mel - 
+Susan - 
