@@ -5,8 +5,8 @@ Hayden - Toy - Done
 Braxton - Toy - Done
 Gag Gift - Done
 
-Marlee - Hoody
+Marlee - Hoody done
 Harper - Done
-Jordan - Whiskey?
-Mel - 
-Susan - 
+Jordan - Whiskey smoker done
+Mel - ?
+Susan - uv thing done 
