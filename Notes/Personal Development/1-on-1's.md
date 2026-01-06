@@ -237,5 +237,10 @@ Check if blockers can be added
 
 ---
 
-December
+January
 
+Adapting communication styles
+Being louder - Make sure that your voice is heard in meetings - add more to the pool of shared meaning.
+Hold others accountable
+Asking others about clarity is a good way to communicate better.
+How can we improve automation? How do we leverage it more to see tangible results?
