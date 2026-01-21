@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "1-on-1's"
             }
+          },
+          {
+            "id": "053355887fef6ca5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcc90638ba71fe42",
+  "active": "053355887fef6ca5",
   "lastOpenFiles": [
     "Task List.md",
     "README.md",
