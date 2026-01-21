@@ -22,35 +22,8 @@
               "icon": "lucide-file",
               "title": "Task List"
             }
-          },
-          {
-            "id": "bcc90638ba71fe42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Personal Development/1-on-1's.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-on-1's"
-            }
-          },
-          {
-            "id": "053355887fef6ca5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,13 +187,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "053355887fef6ca5",
+  "floating": {
+    "id": "9e9b63a753b53b25",
+    "type": "floating",
+    "children": [
+      {
+        "id": "68324b6a9544e87d",
+        "type": "window",
+        "children": [
+          {
+            "id": "488f7a2d519c2798",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bcc90638ba71fe42",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily Notes/2026-01-21.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-01-21"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -748,
+        "y": 894,
+        "width": 670,
+        "height": 735,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bcc90638ba71fe42",
   "lastOpenFiles": [
+    "Notes/Personal Development/1-on-1's.md",
+    "Notes/Daily Notes/2026-01-21.md",
+    "Notes/Daily Notes/2026-01-20.md",
     "Task List.md",
     "README.md",
     "Notes/Daily Notes/2025-11-03.md",
     "Notes/Daily Notes/2025-10-29.md",
-    "Notes/Personal Development/1-on-1's.md",
     "Notes/Daily Notes/2025-10-28.md",
     "Notes/Effective Meetings.md",
     "Notes/Daily Notes/2025-10-21.md",
@@ -240,8 +254,6 @@
     "Notes/Daily Notes/2025-04-08.md",
     "Notes/Daily Notes/2025-04-02.md",
     "Notes/Daily Notes/2025-04-01.md",
-    "Notes/Daily Notes/2025-03-25.md",
-    "Notes/Daily Notes/2025-03-18.md",
     "Great Lakes",
     "Untitled.canvas",
     "Notes/Personal Development",
