@@ -244,3 +244,14 @@ Being louder - Make sure that your voice is heard in meetings - add more to the 
 Hold others accountable
 Asking others about clarity is a good way to communicate better.
 How can we improve automation? How do we leverage it more to see tangible results?
+
+
+----
+
+February
+
+QA - course sign up
+Education request form
+Meeting to discuss integration of AI
+Licensing 
+Then Framework
