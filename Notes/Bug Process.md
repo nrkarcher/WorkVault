@@ -1,3 +1,3 @@
-When a ticket is closed it needs to be moved to the portfolio of the release version.
+When a ticket is closed it needs to be moved to the [[Bug Portfolios|portfolio]] of the release version.
 
-# D-11417
+# [[Critical Discussion#D-11816|D-11417]]

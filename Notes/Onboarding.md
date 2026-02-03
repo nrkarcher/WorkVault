@@ -6,7 +6,7 @@ QA wiki
 - move QA sprint work over to getting started and updating that as well
 - Add registry reset instructions
 - Crucible link
-- Licensing information (from Andrew?)
+- [[Licensing]] information (from Andrew?)
 
 ---
 Issues:

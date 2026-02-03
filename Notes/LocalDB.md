@@ -1,2 +1,2 @@
 - Notify testers to use throwaway projects 
-- Make sure that users know that localdb projects can't be downgraded.
+- Make sure that users know that [[LocalDB]] projects can't be downgraded.

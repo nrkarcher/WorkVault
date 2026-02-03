@@ -4,4 +4,4 @@
 - Where do we store that OAuth file to access dev version?
 	- On the orange under seisware docs -> 10duke
 
-- In 10.8.2 We fixed the issue where if the app crashes it'll release the license but if the API server is killed off the license can't be released without waiting for the 
+- In 10.8.2 We fixed the issue where if the app crashes it'll release the license but if the API server is killed off the [[Licensing|license]] can't be released without waiting for the 

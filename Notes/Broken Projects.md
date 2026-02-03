@@ -4,7 +4,7 @@ The following projects were skipped:
 
   
 
-BlackfootSWIG: The requested operation failed: Database file "E:\BlackfootSWIG\DB\localdb.mdf" does not exist.
+BlackfootSWIG: The requested operation failed: Database file "E:\BlackfootSWIG\DB\[[LocalDB|localdb]].mdf" does not exist.
 
   
 
@@ -16,7 +16,7 @@ Aussie_Training(10.7): 1 users failed to update:
 
   
 
-DEMOSET(10.7.1): The requested operation failed: The database 'E:\SeisWare Test Projects\DEMOSET(10.7.1)\DB\localdb.mdf' cannot be opened because it is version 957. This server supports version 904 and earlier. A downgrade path is not supported.
+DEMOSET(10.7.1): The requested operation failed: The database 'E:\SeisWare Test Projects\DEMOSET(10.7.1)\DB\[[LocalDB|localdb]].mdf' cannot be opened because it is version 957. This server supports version 904 and earlier. A downgrade path is not supported.
 
 Could not open new database 'E:\SeisWare Test Projects\DEMOSET(10.7.1)\DB\localdb.mdf'. CREATE DATABASE is aborted.
 

@@ -47,10 +47,10 @@ April:
 
 Better process for transitioning from training to testing.
 Finish course before next meeting.
-Rest of this sprint and next sprint on the bug busters, and then transition over to gun barrel. 
+Rest of this sprint and next sprint on the bug busters, and then transition over to [[Gun Barrel|gun barrel]]. 
 May 1st
 - Mila to take over bug busters. Andrew as PO
-- Transition over to gun barrel
+- Transition over to [[Gun Barrel|gun barrel]]
 Find some opportunities to get Mila on the board a little more.
 - Pick some stories for Mila - SV 11013 10583 
 
@@ -106,14 +106,14 @@ Shared screen - share your notes, share current options and opinions.
 Directing the conversation.
 What we want, what we don't want, possible issues, dangers, priority
 Talk to Jeremy about Blobs
-11.0
+[[11.0 Upgrade|11.0]]
 Needs, wants, don't wants. - Get it done for next time
 
 ---
 
 November
 
-Take lead on 11.0 testing.
+Take lead on [[11.0 Upgrade|11.0 testing]].
 Leading with questions.
 
 
@@ -165,7 +165,7 @@ Include more crucible training in the initial training process.
 April
 
 Chat with Mila about Leadership
-Have more training meetings with the new QA - licensing, hubspot, etc
+Have more training meetings with the new QA - [[Licensing|licensing]], hubspot, etc
 
 
 ---
@@ -200,7 +200,7 @@ What you need, want, don't want in a job.
 
 Minimal time on the co-ops.
 
-Start on performance after TGS
+Start on performance after [[TGS]]
 
 Check the changelogs for the 10.0.1 release and pick a baseline
 
@@ -253,6 +253,6 @@ February
 QA - course sign up
 Education request form
 Meeting to discuss integration of AI
-Licensing 
+[[Licensing]] 
 Then Framework
 
