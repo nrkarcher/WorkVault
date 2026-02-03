@@ -248,5 +248,11 @@ How can we improve automation? How do we leverage it more to see tangible result
 
 ----
 
-Febuary
+February
+
+QA - course sign up
+Education request form
+Meeting to discuss integration of AI
+Licensing 
+Then Framework
 
