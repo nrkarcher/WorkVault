@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Performance Discussion.md",
+                "file": "Notes/SeisWare Nations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Performance Discussion"
+              "title": "SeisWare Nations"
             }
           }
         ],
@@ -220,6 +220,8 @@
   },
   "active": "99c1e52c189ee899",
   "lastOpenFiles": [
+    "Notes/SDK Testing.md",
+    "Notes/Performance Discussion.md",
     "Notes/Gun Barrel.md",
     "Notes/Effective Meetings.md",
     "Notes/Critical Discussion.md",
@@ -245,8 +247,6 @@
     "Notes/Daily Notes/2025-09-30.md",
     "Notes/Daily Notes/2025-09-23.md",
     "Notes/Daily Notes/2025-08-20.md",
-    "Notes/Daily Notes/2025-08-12.md",
-    "Notes/Daily Notes/2025-08-06.md",
     "Great Lakes",
     "Untitled.canvas",
     "Notes/Personal Development",
