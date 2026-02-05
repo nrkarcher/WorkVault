@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,7 +218,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99c1e52c189ee899",
+  "active": "302b52db8447604f",
   "lastOpenFiles": [
     "Untitled.base",
     "Notes/Book Reviews.md",
