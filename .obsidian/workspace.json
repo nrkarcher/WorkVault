@@ -50,9 +50,21 @@
               "icon": "lucide-file",
               "title": "Book Reviews"
             }
+          },
+          {
+            "id": "c968de12459f046e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "302b52db8447604f",
+  "active": "c968de12459f046e",
   "lastOpenFiles": [
     "Untitled.base",
     "Notes/Book Reviews.md",
