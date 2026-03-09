@@ -256,3 +256,10 @@ Meeting to discuss integration of AI
 [[Licensing]] 
 Then Framework
 
+
+---
+ 
+ March
+
+Concerns: Unclear future in relation to leadership.
+

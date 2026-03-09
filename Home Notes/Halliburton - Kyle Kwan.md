@@ -40,3 +40,15 @@ why are you leaving your current job
 how do you handle stress and pressure
 Do you have any questions for us?
 
+
+
+Interview process
+- Product owner and team leads for initial plan.
+- Situational type questions
+- Focus on 2 elements - recall examples from your past experience. 
+- Run through job description and get some structure and how you may have performed and experienced. 
+- Technique for behavioral interviews - STAR technique 
+- Situation task action result
+- One sentecne for each of those.
+- Focus on CS as well 
+- 3-5 min introduction
