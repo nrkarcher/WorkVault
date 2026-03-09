@@ -50,9 +50,21 @@
               "icon": "lucide-file",
               "title": "Mercury"
             }
+          },
+          {
+            "id": "11163696eb59786f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99c1e52c189ee899",
+  "active": "11163696eb59786f",
   "lastOpenFiles": [
     "Screenshot 2026-02-26 071755.png",
     "Notes/Daily Notes/2026-02-24.md",
