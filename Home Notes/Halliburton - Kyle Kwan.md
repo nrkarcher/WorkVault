@@ -57,3 +57,9 @@ Interview process
 Tell us about yourself
 
 I got my CS degree from the university of Calgary
+
+
+
+Questions:
+- Can you tell me what the work environment and culture is like?
+- Do you have any hesitations about my fit for this position? 
