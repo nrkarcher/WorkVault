@@ -56,7 +56,7 @@ Interview process
 
 Tell us about yourself
 
-I got my CS degree from the university of Calgary
+I got my CS degree from the university of Calgary and I started at SeisWare right out of school. 
 
 
 
