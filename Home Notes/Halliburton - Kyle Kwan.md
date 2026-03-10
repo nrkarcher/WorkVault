@@ -56,7 +56,7 @@ Interview process
 
 Tell us about yourself
 
-I got my CS degree from the university of Calgary and I started at SeisWare right out of school. I've been a QA analyst at SeisWare for almost 14 years now. I was the first computer Science hire for the QA department so I have been building QA processes and developing ways of combining the geoscience knowledge of my coworkers and my computer science know-how to better test out the software. With the smaller team at SeisWare I've had to wear a lot of hats, manual testing, automated user interface testing, SDK testing. I've also taken on some leadership roles training n
+I got my CS degree from the university of Calgary and I started at SeisWare right out of school. I've been a QA analyst at SeisWare for almost 14 years now. I was the first computer Science hire for the QA department so I have been building QA processes and developing ways of combining the geoscience knowledge of my coworkers and my computer science know-how to better test out the software. With the smaller team at SeisWare I've had to wear a lot of hats, manual testing, automated user interface testing, SDK testing. I've also taken on some leadership roles training new QA hires, running retrospectives and scrum mastering for another team. I feel like I have learned a lot over the years especially about developing QA processes and geoscience and I'm excited to learn more.
 
 
 
