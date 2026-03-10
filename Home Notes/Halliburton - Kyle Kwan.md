@@ -52,3 +52,8 @@ Interview process
 - One sentecne for each of those.
 - Focus on CS as well 
 - 3-5 min introduction
+
+
+Tell us about yourself
+
+I got my CS degree from the university of Calgary
