@@ -63,3 +63,14 @@ I got my CS degree from the university of Calgary and I started at SeisWare righ
 Questions:
 - Can you tell me what the work environment and culture is like?
 - Do you have any hesitations about my fit for this position? 
+
+Related to work experience:
+
+I bring over a decade of experience as a Senior Quality Assurance Specialist supporting complex geoscience software used in high‑stakes operational environments. My work has focused on ensuring software reliability, validating scientific accuracy, and improving testing processes across more than 200 integrated applications. I’ve collaborated closely with developers, product owners, and support teams to identify issues, prioritize fixes, and deliver stable releases.
+
+I’ve also implemented automated testing frameworks, built custom Python API‑level tests, and created internal tools to measure performance across versions — all of which strengthened product quality and reduced regression risk.
+
+
+Why do you want to work at Halliburton
+
+ I've spent my career testing geoscience software that support exploration workflows, so joining Halliburton feels like a natural extension of my domain experience and I think that I could fit in with that kind of team very naturally.
