@@ -62,6 +62,7 @@ I got my CS degree from the university of Calgary and I started at SeisWare righ
 
 Questions:
 - Can you tell me what the work environment and culture is like?
+- Do you have any plans or concerns about the use of AI in the future?
 - Do you have any hesitations about my fit for this position? 
 
 Related to work experience:
