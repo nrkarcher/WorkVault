@@ -79,3 +79,5 @@ Why do you want to work at Halliburton
 
 Offer from Halliburton
 120k
+vacay - 4 wks
+Near the end of the month for notice
