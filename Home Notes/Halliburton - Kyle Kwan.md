@@ -75,3 +75,7 @@ I’ve also implemented automated testing frameworks, built custom Python API‑
 Why do you want to work at Halliburton
 
  I've spent my career testing geoscience software that support exploration workflows, so joining Halliburton feels like a natural extension of my domain experience and I think that I could fit in with that kind of team very naturally.
+
+
+Offer from Halliburton
+120k
