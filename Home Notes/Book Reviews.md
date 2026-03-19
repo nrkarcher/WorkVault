@@ -30,3 +30,11 @@ The Finder by Will Ferguson bounces mostly between an interpol agent attempting 
 Cultish: The Language of Fanaticism by Amanda Montell
 
 Cultish: The Language of Fanaticism by Amanda Montell was my non-fiction pick for the book club this year. I have always been interested in cults and 
+
+
+
+Better living through plastic explosives
+
+This was my pick for book club. I chose it mostly because it was a Canadian author and I thought the title of the book was interesting. Since this was a collection of short stories the content varies quite a bit from story to story but the author was still very consistent in the style of her writing. The style of the novel really shines through, she is very descriptive and uses a lot of metaphor to make comparisons that are often clever. This can come across as a bit pretentious at times but still makes for an enjoyable read. 3.5/5
+
+
