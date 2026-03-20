@@ -38,3 +38,6 @@ Better living through plastic explosives
 This was my pick for book club. I chose it mostly because it was a Canadian author and I thought the title of the book was interesting. Since this was a collection of short stories the content varies quite a bit from story to story but the author was still very consistent in the style of her writing. The style of the novel really shines through, she is very descriptive and uses a lot of metaphor to make comparisons that are often clever. This can come across as a bit pretentious at times but still makes for an enjoyable read. 3.5/5
 
 
+How Fascism Works
+
+This book wasn't a ton of fun to read. It lays out the basics of a concept that is hard to fully grasp and articulates aspects of fascism in a clear and simple way. My feelings about the book are complicated by having to watch aspects of it play out on the news. I'm still going to recommend this book, it's informative even if it leaves you a little more frustrated with the world. 3/5
