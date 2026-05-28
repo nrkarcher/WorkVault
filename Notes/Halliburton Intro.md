@@ -7,4 +7,7 @@ Questions for next week:
 - Udemy course is blocked, who do I talk to to get approved. 
 - On prem environments on jackal.
 - prep drives on workspace
-- 
+- Horizonview - Leo
+- Amazon workspac
+- Nadia for help with 
+- dcv support - client for connecting to the vm
