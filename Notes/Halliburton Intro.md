@@ -15,3 +15,7 @@ Questions for next week:
 - DSG installation - Go to Pavel or Roman
 - OW_CONF_Dir - where the configuration is stored
 - TNS_Admin - necessary
+- Openworks DBs change depending on the version of DS
+	- Leo - 107db
+	- Jackal - 107
+- Scrum mastering tomorrow
