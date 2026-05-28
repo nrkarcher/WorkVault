@@ -11,3 +11,7 @@ Questions for next week:
 - Amazon workspac
 - Nadia for help with 
 - dcv support - client for connecting to the vm
+- Vitalii Moroz, Alina - VM expert
+- DSG installation - Go to Pavel or Roman
+- OW_CONF_Dir - where the configuration is stored
+- TNS_Admin - necessary
