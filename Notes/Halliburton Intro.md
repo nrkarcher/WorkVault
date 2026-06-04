@@ -24,3 +24,9 @@ What do failures look like?
 Is the workflow to log bugs rather than issues on the ticket itself?
 How do you notify the developer?
 Appstream Ops Console?
+Criteria for severity?
+
+Scrum mastering: 
+- ado task assistant
+- script to duplicate items
+- 
