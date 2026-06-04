@@ -29,4 +29,5 @@ Criteria for severity?
 Scrum mastering: 
 - ado task assistant
 - script to duplicate items
-- 
+- DS Dev Team - Overview for data on the team 
+Check K Drive on OEC see if it still exists
