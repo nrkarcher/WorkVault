@@ -5,17 +5,17 @@ Questions for next week:
 - Does the testing occur on the master branch?
 - How do you know what needs to be tested?
 - Udemy course is blocked, who do I talk to to get approved. 
-- On prem environments on jackal.
-- prep drives on workspace
-- Horizonview - Leo
-- Amazon workspac
-- Nadia for help with 
-- dcv support - client for connecting to the vm
-- Vitalii Moroz, Alina - VM expert
-- DSG installation - Go to Pavel or Roman
-- OW_CONF_Dir - where the configuration is stored
-- TNS_Admin - necessary
-- Openworks DBs change depending on the version of DS
+
+On prem environments on jackal.
+prep drives on workspace
+Horizonview - Leo
+Nadia for help with 
+dcv support - client for connecting to the vm
+Vitalii Moroz, Alina - VM expert
+DSG installation - Go to Pavel or Roman
+OW_CONF_Dir - where the configuration is stored
+TNS_Admin - necessary
+Openworks DBs change depending on the version of DS
 	- Leo - 107db
 	- Jackal - 107
 - Scrum mastering tomorrow
