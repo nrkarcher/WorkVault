@@ -31,3 +31,15 @@ Scrum mastering:
 - script to duplicate items
 - DS Dev Team - Overview for data on the team 
 Check K Drive on OEC see if it still exists
+
+ Capacity Planning:
+ RQ_26.3_Capacity_Planning
+ Dev Eng page for vacation planning
+ LRP = Quarter
+ Dev Eng Features
+	 Clear the actual effort (weeks) column
+	 Copy the numbers from ADO into the days column, weeks will update.
+New Quarter starts July 1
+June 15-19 - pre-planning 
+find and replace RQ 26.2 with RQ 26.3
+Use signitures to create a default sm ass
