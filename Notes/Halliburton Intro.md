@@ -42,9 +42,9 @@ Check K Drive on OEC see if it still exists
 New Quarter starts July 1
 June 15-19 - pre-planning 
 find and replace RQ 26.2 with RQ 26.3
-Use signitures to create a default sm ass
+Use signatures to create a default response for the 
 
-Plan:
+Planning meeting:
 Gather updates for the current sprint. Make sure that all of the items from the previous iteration are done.
 Need to add comments if we are carrying it forward. Add the storybleed tag to all items on a story if it is being pulled forward.
 If there is something that can be completed today leave it in the sprint, bring it up in the next meeting tomorrow.
@@ -55,3 +55,9 @@ Make sure we don't have any open questions in the backlog.
 For review: Collect all of the comments from the retros and compile with feedback from Elena.
 
 Make folder for 3rd party review requests and LSM
+
+Scrum Notes:
+First day of the new sprint clear the previous iteration first before updates.
+DEV and DOC get assigned to the developer
+REV and QA get assigned to the QA
+Check description before a ticket gets committed.
