@@ -18,6 +18,11 @@ Once pre-planning is done we go through backlog grooming - open the features in 
 Need Elena for backlog grooming - gather updates
 Make sure we don't have any open questions in the backlog.
 
+Retro board after
+
 For review: Collect all of the comments from the retros and compile with feedback from Elena.
 
 add extra effort to bugs that get moved to the next sprint
+create PBI to test out that image.
+test p2p using this image as a new user
+Remove home directory first and 
