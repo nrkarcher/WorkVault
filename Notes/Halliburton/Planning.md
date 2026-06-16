@@ -19,3 +19,5 @@ Need Elena for backlog grooming - gather updates
 Make sure we don't have any open questions in the backlog.
 
 For review: Collect all of the comments from the retros and compile with feedback from Elena.
+
+add extra effort to bugs that get moved to the next sprint
