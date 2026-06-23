@@ -18,6 +18,8 @@ Once pre-planning is done we go through backlog grooming - open the features in 
 Need Elena for backlog grooming - gather updates
 Make sure we don't have any open questions in the backlog.
 
+add new portfolios for each new RQ in the backlog.
+
 Retro board after
 
 For review: Collect all of the comments from the retros and compile with feedback from Elena.
