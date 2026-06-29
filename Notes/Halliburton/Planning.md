@@ -28,3 +28,7 @@ add extra effort to bugs that get moved to the next sprint
 create PBI to test out that image.
 test p2p using this image as a new user
 Remove home directory first and 
+
+26.3 planning
+Adding 1 pbi to deployment auto enhancements
+separate call for this 
