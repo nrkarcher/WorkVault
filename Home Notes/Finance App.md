@@ -17,4 +17,5 @@ RRSP contribution calculator
 Advice
 	- In-app ai agent (Financial expert)? 
 	- Able to take in all of the info required to make suggestions.
-	- This information should be saved to make more informed decisions in the future
+	- This information should be saved to make more informed decisions in the future.
+	- Taking into account savings, investing, RRSP, Mortgage this 
