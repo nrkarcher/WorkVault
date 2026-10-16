@@ -19,3 +19,13 @@ Advice Agent tab
 	- Able to take in all of the info required to make suggestions.
 	- This information should be saved to make more informed decisions in the future.
 	- Taking into account savings, investing, RRSP, Mortgage this portion of the app should direct the user on the best investment to maximize total value.
+
+
+
+Part 2:
+
+Add users, logins, security.
+
+Testing framework
+
+
